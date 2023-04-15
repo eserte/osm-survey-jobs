@@ -41,7 +41,12 @@ for my $feature (@{ $data->{features} }) {
 	    }
 	    last;
 	}
-	if ($text =~ m{(mapillary|kartaview|gopro|\b360\b)}) {
+	if ($text =~ m{(
+			   mapillary
+		       |   kartaview
+		       |   gopro
+		       |   \b360\b(?!\s*m\b)
+		       )}x) {
 	    my $geometry = $feature->{geometry};
 	    if ($geometry->{type} ne 'Point') {
 		die "Unexpected error: geometry type is not Point, but '$geometry->{type}', cannot handle this...";
