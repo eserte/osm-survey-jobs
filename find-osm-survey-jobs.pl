@@ -5,7 +5,12 @@ use warnings;
 use Getopt::Long;
 use JSON::XS qw(decode_json);
 
-GetOptions("debug" => \my $debug)
+my $debug;
+my $url_in_name;
+GetOptions(
+	   "debug"       => \$debug,
+	   "url-in-name" => \$url_in_name,
+	  )
     or die "usage?";
 
 my $json_file = shift // die "Please specify notes json file";
@@ -82,12 +87,18 @@ for my $job (@jobs) {
     my $shortened_text = $job->{text};
     $shortened_text =~ s{^\s+}{}g;
     $shortened_text =~ s{\s+$}{}g;
+    $shortened_text =~ s{\t}{ }g;
     $shortened_text =~ s{^(.*)(.|\n)*}{$1};
     if (length $shortened_text > 256) {
 	$shortened_text = substr($shortened_text, 0, 256) . "...";
     }
     print "#\n";
     print "#: by: $job->{user} (on $job->{date})\n";
-    print "#: note: $shortened_text\n";
-    print "$job->{notes_url}\tX @{ $job->{coords} }\n";
+    if ($url_in_name) {
+	print "#: note: $shortened_text\n";
+	print "$job->{notes_url}\tX @{ $job->{coords} }\n";
+    } else {
+	print "#: url: $job->{notes_url}\n";
+	print "$shortened_text\tX @{ $job->{coords} }\n";
+    }
 }
