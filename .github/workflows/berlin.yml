@@ -6,6 +6,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - uses: actions/checkout@v3
@@ -26,15 +28,15 @@ jobs:
       run: |
         set -ex
         wget 'https://api.openstreetmap.org/api/0.6/notes.json?bbox=13.051179,52.337621,13.764158,52.689878&limit=10000&closed=0' -O /tmp/notes-berlin.json
-        ./find-osm-survey-jobs.pl --debug /tmp/notes-berlin.json > /tmp/osm-survey-jobs-berlin.bbd
-        ${{ env.GITHUB_WORKSPACE }}/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp /tmp/osm-survey-jobs-berlin.bbd > ${{ env.GITHUB_WORKSPACE }}/osm-survey-jobs-gh-pages/osm-survey-jobs-berlin.bbbgeojsonp
+        ./find-osm-survey-jobs.pl /tmp/notes-berlin.json > /tmp/osm-survey-jobs-berlin.bbd
+        $GITHUB_WORKSPACE/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp /tmp/osm-survey-jobs-berlin.bbd > $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages/osm-survey-jobs-berlin.bbbgeojsonp
 
-    - name: Push changes to gh-pages
+    - name: Prepare changes to gh-pages
       run: |
         set -ex
-        cd ${{ env.GITHUB_WORKSPACE }}/osm-survey-jobs-gh-pages
+        cd $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add osm-survey-jobs-berlin.bbbgeojsonp
-        git commit -a -m "automatic osm-survey-jobs-berlin.bbbgeojsonp update"
+        git commit -m "automatic osm-survey-jobs-berlin.bbbgeojsonp update"
         git push origin gh-pages
