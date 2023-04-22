@@ -1,0 +1,134 @@
+// generated with bbd2geojson from BBBike distribution, see
+// https://github.com/eserte/bbbike/blob/master/miscsrc/bbd2geojson
+geoJsonResponse({
+   "features" : [
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4804016",
+               "52.4848939"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Ich habe ein paar neue Details in https://www.openstreetmap.org/changeset/131514727 erg\u00e4nzt, aber meine Fotos reichten nicht aus f\u00fcr alle Details. Wenn wir frische 360\u00b0 Fotos haben, k\u00f6nnen wir vor allem den neuen Zugang am zur Zeit gesperrten \"Wasserweg\" (..."
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4101",
+               "52.3986"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Lt mapillary AltbauhochbordRW mit ca. 80 bis 100 cm Breite in beiden Richtungen"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.721838",
+               "52.5564367"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Hinweisschild Naturschutzgebiet (siehe 360\u00b0-Fotos auf Mapillary)"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5281296",
+               "52.384853"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Habe kein Baustellenschild gesehen, augenscheinlich werden die Zuwegungen neu angelegt und evtl. ein Parkplatz? Bin da ehrlich gesagt mit dem Rad und der 360\u00b0-Cam verbotenerweise lang geradelt, da dort ja Radfahren verboten ist."
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.2445979",
+               "52.4530673"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Bin heute in dem Bereich einmal mit der 360\u00b0-Cam lang. ein paar Wege werde ich gleich bearbeiten, der Rest kann gemacht werden wenn die Fotos auf Mapillary verf\u00fcgbar sind. Was mir aufgefallen ist deckt sich mit den gesetzlichen Bestimmungen f\u00fcr Gesch\u00fctzte ..."
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3050871",
+               "52.6310313"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Kann es sein, da\u00df nur einzelne Kurse dort langfahren  [Sch\u00fclerverkehr, Morgen-oder Abendverkehr)    Auf mapillary ist sogar ein Bus 806 zu sehen (mtek 14.1.21)    seltsam...."
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4715591",
+               "52.4644572"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Update: Ich lade gerade 360\u00b0 Mapillary Fotos hoch."
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4640992",
+               "52.580679"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Sowohl der von Nord nach S\u00fcd, als auch der von NW nach SO verlaufende Weg passen eher in die Kategorie \"path\". Des Weiteren sind beide Wege als Gesch\u00fctzte Gr\u00fcnanlage beschildert, wobei auf mapillary am nordwestlichen Ende (Verl\u00e4ngerung Safranammerweg) ein ..."
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3520901",
+               "52.5875367"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Das ist ja das Merkw\u00fcrdige, es kann sein, dass das eine oder andere Schild entfernt wurde, z.B. \"Radfahrende frei\". Das Mauerweg-Schild an dieser Stelle l\u00e4\u00dft vermuten, dass dieser geradeaus f\u00fchrt. Bei mapillary ist auch ein Bild (von kartonage) mit der von..."
+         },
+         "type" : "Feature"
+      }
+   ],
+   "type" : "FeatureCollection"
+}
+);
