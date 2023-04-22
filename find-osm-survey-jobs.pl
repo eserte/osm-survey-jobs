@@ -1,9 +1,9 @@
-#!/usr/bin/env pistachio-perl
+#!/usr/bin/env perl
 
 use strict;
 use warnings;
 use Getopt::Long;
-use JSON::XS qw(decode_json);
+use JSON::PP qw(decode_json);
 
 my $debug;
 my $url_in_name;
