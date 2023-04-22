@@ -14,25 +14,25 @@ jobs:
       uses: actions/checkout@v3
       with:
         ref: gh-pages
-        path: ${{ env.HOME }}/osm-survey-jobs-gh-pages
+        path: osm-survey-jobs-gh-pages
 
     - name: Checkout bbbike repository
       uses: actions/checkout@v3
       with:
         repository: eserte/bbbike
-        path: ${{ env.HOME }}/src/bbbike
+        path: src/bbbike
 
     - name: Create osm-survey-jobs-berlin.bbbgeojsonp
       run: |
         set -ex
         wget 'https://api.openstreetmap.org/api/0.6/notes.json?bbox=13.051179,52.337621,13.764158,52.689878&limit=10000&closed=0' -O /tmp/notes-berlin.json
         ./find-osm-survey-jobs.pl --debug /tmp/notes-berlin.json > /tmp/osm-survey-jobs-berlin.bbd
-        ${{ env.HOME }}/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp /tmp/osm-survey-jobs-berlin.bbd > ${{ env.HOME }}/osm-survey-jobs-gh-pages/osm-survey-jobs-berlin.bbbgeojsonp
+        ${{ env.GITHUB_WORKSPACE }}/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp /tmp/osm-survey-jobs-berlin.bbd > ${{ env.GITHUB_WORKSPACE }}/osm-survey-jobs-gh-pages/osm-survey-jobs-berlin.bbbgeojsonp
 
     - name: Push changes to gh-pages
       run: |
         set -ex
-        cd ${{ env.HOME }}/osm-survey-jobs-gh-pages
+        cd ${{ env.GITHUB_WORKSPACE }}/osm-survey-jobs-gh-pages
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add osm-survey-jobs-berlin.bbbgeojsonp
