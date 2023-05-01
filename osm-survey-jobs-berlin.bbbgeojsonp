@@ -5,6 +5,193 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2413632",
+               "52.5571998"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Ich habe grob geplant, an einem Mai-Wochenende hier mal vorbeizufahren und den Stand bei Mapillary zu dokumentieren.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3442821"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4916294",
+               "52.398668"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Keine Schilder f\u00fcr eine gesch\u00fctzte Gr\u00fcnanlage, aber in ALKIS hat die Fl\u00e4che den entsprechenden Schl\u00fcssel. Fotos sind bald auf Mapillary verf\u00fcgbar",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3599639"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5985824",
+               "52.6714526"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "mMn ist dort kein offizieller Radweg  mehr, keinerlei Beschilderung zum damaligen Zeitpunkt und Wohnanlage. Ob sich da mittlerweile etwas ge\u00e4ndert hat kann ich aber nicht sagen (zuviele offene Projekte f\u00fcr die GoPro und Mapillary). Wenn es ein Traffic_sign...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3320841"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5342535",
+               "52.3830984"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "meiner Meinung nach ist dort weiterhin Radfahrverbot. An den Nodes https://www.openstreetmap.org/node/1736492182 und https://www.openstreetmap.org/node/1701693976 gibt es aktuelle Fotos auf Mapillary mit dem Radfahrverbot (VZ 254) Richtung J\u00fcrgen-Schuhmann...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3507315"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5281296",
+               "52.384853"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Aktuelle Fotos vom 26.03.2023 sind auf Mapillary. Neue Kreuzung und Wegef\u00fchrung so gut es ging eingetragen, auch die neuen Bushaltestellen sind vorbereitet. Bei Google Earth kann man analog meiner Fotos was sehen",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3220959"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4962007",
+               "52.4041927"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Hier ist nur ein Schild f\u00fcr Gesch\u00fctzte Gr\u00fcnanlage ohne Radfreigabe. Wie unter https://www.openstreetmap.org/note/3186987 hinterlegt, wird evtl. bald die Mauerwegsroute wieder richtig befahrbar sein, somit die hier umgeleitete Route wegfallen. Habe auch Pan...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3613630"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.33019",
+               "52.51986"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Reopening: zum Beispiel https://www.openstreetmap.org/way/217878976 spezifiziert noch immer maxspeed=10, was auf den Mapillary-Bildern nicht zu sehen ist.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3271489"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3854139",
+               "52.518715"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Ohne Experte daf\u00fcr zu sein, sollte \"tertiary\" (secondary ist es auf jeden Fall nicht) an ein paar Bedingungen gekn\u00fcpft sein:",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3583175"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.457576",
+               "52.5554942"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Sind ganz so aus. Mapillary-Bilder demn\u00e4chst verf\u00fcgbar.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2675458"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3443037",
+               "52.5250601"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Also auf dem geteilten Foto auf Mapillary ist diese Einfahrt gerade positiv als LKW-Einfahrt ausgewiesen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3226906"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4775263",
+               "52.4846538"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Ich habe drei Skulpturen erg\u00e4nzt, aber eine m\u00fcsste noch fehlen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3515954"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4804016",
                "52.4848939"
             ],
@@ -15,6 +202,57 @@ geoJsonResponse({
             "name" : "Ich habe ein paar neue Details in https://www.openstreetmap.org/changeset/131514727 erg\u00e4nzt, aber meine Fotos reichten nicht aus f\u00fcr alle Details. Wenn wir frische 360\u00b0 Fotos haben, k\u00f6nnen wir vor allem den neuen Zugang am zur Zeit gesperrten \"Wasserweg\" (...",
             "urls" : [
                "https://www.openstreetmap.org/note/3448122"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.7034709",
+               "52.4342089"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "In ein paar Tagen gibt es hier aktuelle Fotos auf Mapillary. An der Zufahrt sowie an der Fassade dieses Geb\u00e4udes ist nur die Schule an den P\u00fcttbergen benannt Aber laut Webseite http://www.schule-an-den-puettbergen.de/conpresso4/_rubric/index.php?rubric=New...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2674920"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4329668",
+               "52.5386696"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "ja der ist umz\u00e4unt ;) Mal sehen ob mal jemand aktuelle Fotos f\u00fcr Mapillary macht",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3407313"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.436797",
+               "52.4883957"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Es gibt neue Fahrradst\u00e4nder und barrier-Steine entlang des B\u00fcrgersteiges. ",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3501245"
             ]
          },
          "type" : "Feature"
@@ -39,6 +277,57 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2543504",
+               "52.5193546"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Ich konnte die Lage vor Ort aus Zeitgr\u00fcnden nicht 100%ig sondieren, daher statt Edit erstmal eine Notiz mit Bitte um Verifizierung:",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3346008"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3569",
+               "52.4453"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Hier wurden Radspuren markiert. Richtung Lankwitz etwa von Steglitzer Damm bis Crailsheimer Stra\u00dfe, Richtung Tempelhof ab Ende des alten Radwegs bis zum Beginn der Busspur (Neckarsulmer Stra\u00dfe). Mapillary-Bilder werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3345858"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.59623",
+               "52.54402"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Station ist fertig, da ist auch Miles mit etlichen Fahrzeugen vorhanden. aktuelle Fotos in ein paar Tagen auf Mapillary",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3250277"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.721838",
                "52.5564367"
             ],
@@ -56,16 +345,33 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5281296",
-               "52.384853"
+               "13.4837851",
+               "52.4120304"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Habe kein Baustellenschild gesehen, augenscheinlich werden die Zuwegungen neu angelegt und evtl. ein Parkplatz? Bin da ehrlich gesagt mit dem Rad und der 360\u00b0-Cam verbotenerweise lang geradelt, da dort ja Radfahren verboten ist.",
+            "name" : "Ist auf den Mapillary-Fotos nicht einzusehen, denke aber das der Container weg ist (Mir sind bisher auch immer nur solche Container im \u00f6ffentlichen Stra\u00dfenland aufgefallen)",
             "urls" : [
-               "https://www.openstreetmap.org/note/3220959"
+               "https://www.openstreetmap.org/note/3002234"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5578371",
+               "52.3516975"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Den Weg gibt es wohl nicht mehr, f\u00fchrt in ein Naturschutzgebiet (siehe Mapillary). Der anschliessende Weg m\u00fcsste ebenfalls gepr\u00fcft werden. Hinweis ist auch als fixme auf dem Weg hinterlegt.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3223722"
             ]
          },
          "type" : "Feature"
@@ -90,6 +396,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.53486",
+               "52.37111"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Ist ab hier tats\u00e4chlich f\u00fcr Radfahrer verboten? Bei Mapillary sind keine entsprechenden Schilder zu sehen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3206269"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.6450947",
+               "52.4976879"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Hier ist ein Schild mit Naturschutzgebiet und Hinweisen (Verlassen der offiziellen Wege verboten etc.) Fotos sind bald auf Mapillary online",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3134526"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3050871",
                "52.6310313"
             ],
@@ -100,6 +440,57 @@ geoJsonResponse({
             "name" : "Kann es sein, da\u00df nur einzelne Kurse dort langfahren  [Sch\u00fclerverkehr, Morgen-oder Abendverkehr)    Auf mapillary ist sogar ein Bus 806 zu sehen (mtek 14.1.21)    seltsam....",
             "urls" : [
                "https://www.openstreetmap.org/note/2805017"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.430049",
+               "52.4827662"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Park und Spielplatz ist seit gestern er\u00f6ffnet. Erstes Update in https://www.openstreetmap.org/changeset/117278088. Mapillary Fotos vom Gel\u00e4nde laden hoch. Ist aber noch sehr grob gemappt. Ich schlage vor, die Note offen zu lassen als Reminder, hier genauer...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3033236"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.6121679",
+               "52.3393854"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Bilder gibt es \u00fcbrigens auf Mapillary",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3026837"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.41477",
+               "52.5131"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Leider haben die meisten Mapillary Bilder ihr GPS verloren, so dass ich doch kaum etwas hochladen kann.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2921552"
             ]
          },
          "type" : "Feature"
@@ -124,6 +515,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2766771",
+               "52.3505968"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Hallo,",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2688012"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4425837",
+               "52.5421704"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Spielplatz und Park sind nun umgestaltet. Habe einige Panoramafotos zum Micromappen gemacht \u2013 sobald es neue Luftbilder aus 2021 gibt, kann ich noch ein bisschen mehr Micromappen. Kann die Bilder leider gerade nicht bei Mapillary oder KartaView hochladen :...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2199176"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4640992",
                "52.580679"
             ],
@@ -134,6 +559,125 @@ geoJsonResponse({
             "name" : "Sowohl der von Nord nach S\u00fcd, als auch der von NW nach SO verlaufende Weg passen eher in die Kategorie \"path\". Des Weiteren sind beide Wege als Gesch\u00fctzte Gr\u00fcnanlage beschildert, wobei auf mapillary am nordwestlichen Ende (Verl\u00e4ngerung Safranammerweg) ein ...",
             "urls" : [
                "https://www.openstreetmap.org/note/2678849"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.54127",
+               "52.41042"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "mast ref. no. from 13 or 14 onwards tbc (mast no. 13 listed in Geoportal Berlin, but not existing on Mapillary photo)",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2672661"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5239393",
+               "52.6045526"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Hier ist der Kreuzungsbereich etwas anders, Beide Richtungen sind separat und durch z.B. eine Mittelinsel getrennt. Man sieht es auf der Bingkarte und auch in den Mapillarybildern",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2442787"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.39496",
+               "52.58269"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Die Kuckhoffstra\u00dfe ist abschnittsweise asphaltiert. Ich glaube, dass entsprechende Bilder bei Mapillary existieren.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2356638"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3542",
+               "52.5541"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "In der Ungarnstra\u00dfe gibt es Radwege (Details bei Mapillary oder BBBike).",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2336666"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4231311",
+               "52.4642005"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Die Kinder in einem alten Teilgeb\u00e4ude ist bereits in Benutzung. Einige der Wohnungen/Geb\u00e4ude scheinen auch schon bewohnt zu sein. Insgesamt aber alles noch Baustelle und noch keine Beschilderung. Ein paar Mapillary Fotos folgen. F\u00fcr DHL und Co. w\u00e4re es sic...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2088941"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.28631",
+               "52.43586"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Laut Mapillary \u00e4ndert sich ungef\u00e4hr hier die Fahrbahnbeschaffenheit: nordwestlich schlechtes Kopfsteinpflaster, s\u00fcd\u00f6stlich \u00fcbliches Berliner Gro\u00dfsteinpflaster.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2185656"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.37357",
+               "52.50211"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Die Stra\u00dfe ist fertiggestellt und offen, und zwar bis zur Sch\u00f6neberger/Luckenwalder Stra\u00dfe. Allerdings existieren hier zwei Tore, die m\u00f6glicherweise tempor\u00e4r gesperrt sein k\u00f6nnten (nachts?). Mapillary-Bilder folgen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2171729"
             ]
          },
          "type" : "Feature"
