@@ -42,7 +42,7 @@ for my $feature (@{ $data->{features} }) {
 	) {
 	    # already handled
 	    if ($debug) {
-		warn "Note $id is already by URL $1\n";
+		warn "Note $id is already handled by URL $1\n";
 	    }
 	    last;
 	}
