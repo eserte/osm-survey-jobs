@@ -3,7 +3,7 @@ name: Create GitHub Pages
 on:
   workflow_dispatch:
   schedule:
-    - cron: '2 18 * * 0'
+    - cron: '6 18 * * 1'
 
 jobs:
   build:
