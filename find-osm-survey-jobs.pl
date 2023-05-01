@@ -51,7 +51,7 @@ for my $feature (@{ $data->{features} }) {
 		       |   kartaview
 		       |   gopro
 		       |   \b360\b(?!\s*m\b)
-		       )}x) {
+		       )}xi) {
 	    my $geometry = $feature->{geometry};
 	    if ($geometry->{type} ne 'Point') {
 		die "Unexpected error: geometry type is not Point, but '$geometry->{type}', cannot handle this...";
