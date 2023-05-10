@@ -5,16 +5,50 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4860452",
-               "52.5562345"
+               "13.38113",
+               "52.46201"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Hier entsteht eine Verbindungsstra\u00dfe zur Hansastra\u00dfe, Fotos werden gerade hochgeladen (Mapillary)",
+            "name" : "Bauarbeiten in diesem Abschnitt wurden beendet. Fahrbahn ist nun asphaltiert, Parkstreifen weiterhin gepflastert. Mapillary-Bilder werden gerade hochgeladen.",
             "urls" : [
-               "https://www.openstreetmap.org/note/3678184"
+               "https://www.openstreetmap.org/note/3440669"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.36446",
+               "52.44849"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Radspuren wurden markiert, etwa zwischen Ringstra\u00dfe und Gersdorf/R\u00f6blingstra\u00dfe. Mapillary-Bilder werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3683365"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.353281",
+               "52.4491441"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Mapillary-Bilder f\u00fcr die s\u00fcdliche Fahrbahn werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3571101"
             ]
          },
          "type" : "Feature"
@@ -151,23 +185,6 @@ geoJsonResponse({
             "name" : "Ohne Experte daf\u00fcr zu sein, sollte \"tertiary\" (secondary ist es auf jeden Fall nicht) an ein paar Bedingungen gekn\u00fcpft sein:",
             "urls" : [
                "https://www.openstreetmap.org/note/3583175"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.457576",
-               "52.5554942"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Sind ganz so aus. Mapillary-Bilder demn\u00e4chst verf\u00fcgbar.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2675458"
             ]
          },
          "type" : "Feature"
