@@ -38,7 +38,10 @@ for my $feature (@{ $data->{features} }) {
 	    $text =~ m{(https?://(?:www\.)?mapillary\.com/map/im/\S*)} ||
 	    # example:
 	    #   https://kartaview.org/details/5200649/244/track-info
-	    $text =~ m{(https?://(?:www\.)?kartaview\.org/details\S*)}
+	    $text =~ m{(https?://(?:www\.)?kartaview\.org/details\S*)} ||
+	    # example:
+	    #   https://westnordost.de/p/30170.jpg
+	    $text =~ m{(https?://westnordost\.de/p/\S*)}
 	) {
 	    # already handled
 	    if ($debug) {
