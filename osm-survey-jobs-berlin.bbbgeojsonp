@@ -5,57 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.38113",
-               "52.46201"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Bauarbeiten in diesem Abschnitt wurden beendet. Fahrbahn ist nun asphaltiert, Parkstreifen weiterhin gepflastert. Mapillary-Bilder werden gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3440669"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.36446",
-               "52.44849"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Radspuren wurden markiert, etwa zwischen Ringstra\u00dfe und Gersdorf/R\u00f6blingstra\u00dfe. Mapillary-Bilder werden gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3683365"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.353281",
-               "52.4491441"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Mapillary-Bilder f\u00fcr die s\u00fcdliche Fahrbahn werden gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3571101"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.2413632",
                "52.5571998"
             ],
@@ -192,23 +141,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3443037",
-               "52.5250601"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Also auf dem geteilten Foto auf Mapillary ist diese Einfahrt gerade positiv als LKW-Einfahrt ausgewiesen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3226906"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4775263",
                "52.4846538"
             ],
@@ -321,23 +253,6 @@ geoJsonResponse({
             "name" : "Ich konnte die Lage vor Ort aus Zeitgr\u00fcnden nicht 100%ig sondieren, daher statt Edit erstmal eine Notiz mit Bitte um Verifizierung:",
             "urls" : [
                "https://www.openstreetmap.org/note/3346008"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.3569",
-               "52.4453"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Hier wurden Radspuren markiert. Richtung Lankwitz etwa von Steglitzer Damm bis Crailsheimer Stra\u00dfe, Richtung Tempelhof ab Ende des alten Radwegs bis zum Beginn der Busspur (Neckarsulmer Stra\u00dfe). Mapillary-Bilder werden gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3345858"
             ]
          },
          "type" : "Feature"
@@ -695,23 +610,6 @@ geoJsonResponse({
             "name" : "Laut Mapillary \u00e4ndert sich ungef\u00e4hr hier die Fahrbahnbeschaffenheit: nordwestlich schlechtes Kopfsteinpflaster, s\u00fcd\u00f6stlich \u00fcbliches Berliner Gro\u00dfsteinpflaster.",
             "urls" : [
                "https://www.openstreetmap.org/note/2185656"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.37357",
-               "52.50211"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Die Stra\u00dfe ist fertiggestellt und offen, und zwar bis zur Sch\u00f6neberger/Luckenwalder Stra\u00dfe. Allerdings existieren hier zwei Tore, die m\u00f6glicherweise tempor\u00e4r gesperrt sein k\u00f6nnten (nachts?). Mapillary-Bilder folgen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2171729"
             ]
          },
          "type" : "Feature"
