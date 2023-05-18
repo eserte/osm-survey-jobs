@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5623109",
+               "52.468972"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Stra\u00dfe ist fertig. Mapillary-Bilder werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3608009"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.2413632",
                "52.5571998"
             ],
