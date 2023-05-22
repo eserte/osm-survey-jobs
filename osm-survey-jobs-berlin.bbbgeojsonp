@@ -5,33 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5623109",
-               "52.468972"
+               "13.33065",
+               "52.49254"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Stra\u00dfe ist fertig. Mapillary-Bilder werden gerade hochgeladen.",
+            "name" : "Nicht \u00fcberall ist der Seitenstreifen zum Parken. Leider gibt es hier keine 360\u00b0 Fotos und auf den Luftbildern sind Details wie Einfahrten und die Bushaltestelle nicht gut zu erkennen.",
             "urls" : [
-               "https://www.openstreetmap.org/note/3608009"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.2413632",
-               "52.5571998"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Ich habe grob geplant, an einem Mai-Wochenende hier mal vorbeizufahren und den Stand bei Mapillary zu dokumentieren.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3442821"
+               "https://www.openstreetmap.org/note/3699934"
             ]
          },
          "type" : "Feature"
