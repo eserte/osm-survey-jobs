@@ -5,16 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4447819",
-               "52.4902462"
+               "13.3208907",
+               "52.5605395"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Dieses Stra\u00dfenst\u00fcck ist nun abgesperrt. Mapillary-Bilder sind in der Verarbeitung.",
+            "name" : "Es gibt hier jetzt einen separaten Fu\u00dfweg, asphaltiert (Bis zum bisherigen Gehweg mit Pflastersteinen). Verlauf ist auf Mapillary zu sehen. Radstreifen selbst ist Beton mit smoothness intermediate, weiterhin nicht nutzungspflichtig (man kann auch die Buspu...",
             "urls" : [
-               "https://www.openstreetmap.org/note/3390316"
+               "https://www.openstreetmap.org/note/3703154"
             ]
          },
          "type" : "Feature"
@@ -168,23 +168,6 @@ geoJsonResponse({
             "name" : "Ich habe drei Skulpturen erg\u00e4nzt, aber eine m\u00fcsste noch fehlen.",
             "urls" : [
                "https://www.openstreetmap.org/note/3515954"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4804016",
-               "52.4848939"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Ich habe ein paar neue Details in https://www.openstreetmap.org/changeset/131514727 erg\u00e4nzt, aber meine Fotos reichten nicht aus f\u00fcr alle Details. Wenn wir frische 360\u00b0 Fotos haben, k\u00f6nnen wir vor allem den neuen Zugang am zur Zeit gesperrten \"Wasserweg\" (...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3448122"
             ]
          },
          "type" : "Feature"
@@ -508,23 +491,6 @@ geoJsonResponse({
             "name" : "Spielplatz und Park sind nun umgestaltet. Habe einige Panoramafotos zum Micromappen gemacht \u2013 sobald es neue Luftbilder aus 2021 gibt, kann ich noch ein bisschen mehr Micromappen. Kann die Bilder leider gerade nicht bei Mapillary oder KartaView hochladen :...",
             "urls" : [
                "https://www.openstreetmap.org/note/2199176"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4640992",
-               "52.580679"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Sowohl der von Nord nach S\u00fcd, als auch der von NW nach SO verlaufende Weg passen eher in die Kategorie \"path\". Des Weiteren sind beide Wege als Gesch\u00fctzte Gr\u00fcnanlage beschildert, wobei auf mapillary am nordwestlichen Ende (Verl\u00e4ngerung Safranammerweg) ein ...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2678849"
             ]
          },
          "type" : "Feature"
