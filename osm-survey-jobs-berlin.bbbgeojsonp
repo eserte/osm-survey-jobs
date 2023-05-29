@@ -5,6 +5,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2543504",
+               "52.5193546"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Tats\u00e4chlich gibt es hier keine Radfahrer-frei-Zusatzschilder mehr. Der s\u00fcdliche Strang des Brixplatzes ist aber weiterhin f\u00fcr Radfahrer in beide Richtungen offen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3346008"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4531828",
+               "52.5009177"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Die restliche Gr\u00fcnbeschichtung bis kurz vor der Modersohnstra\u00dfe ist auch fertig. Mapillary-Photo ist im Upload.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3679524"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3208907",
                "52.5605395"
             ],
@@ -236,23 +270,6 @@ geoJsonResponse({
             "name" : "Lt mapillary AltbauhochbordRW mit ca. 80 bis 100 cm Breite in beiden Richtungen",
             "urls" : [
                "https://www.openstreetmap.org/note/2691741"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.2543504",
-               "52.5193546"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Ich konnte die Lage vor Ort aus Zeitgr\u00fcnden nicht 100%ig sondieren, daher statt Edit erstmal eine Notiz mit Bitte um Verifizierung:",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3346008"
             ]
          },
          "type" : "Feature"
