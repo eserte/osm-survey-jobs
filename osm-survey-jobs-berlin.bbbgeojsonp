@@ -5,16 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.2543504",
-               "52.5193546"
+               "13.4582868",
+               "52.4858772"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Tats\u00e4chlich gibt es hier keine Radfahrer-frei-Zusatzschilder mehr. Der s\u00fcdliche Strang des Brixplatzes ist aber weiterhin f\u00fcr Radfahrer in beide Richtungen offen.",
+            "name" : "Etwa hier entsteht eine Mittelinsel als \u00dcberquerungshilfe. Ein Mapillary-Bild sollte demn\u00e4chst sichtbar sein.",
             "urls" : [
-               "https://www.openstreetmap.org/note/3346008"
+               "https://www.openstreetmap.org/note/3713443"
             ]
          },
          "type" : "Feature"
@@ -49,40 +49,6 @@ geoJsonResponse({
             "name" : "Es gibt hier jetzt einen separaten Fu\u00dfweg, asphaltiert (Bis zum bisherigen Gehweg mit Pflastersteinen). Verlauf ist auf Mapillary zu sehen. Radstreifen selbst ist Beton mit smoothness intermediate, weiterhin nicht nutzungspflichtig (man kann auch die Buspu...",
             "urls" : [
                "https://www.openstreetmap.org/note/3703154"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.33065",
-               "52.49254"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Nicht \u00fcberall ist der Seitenstreifen zum Parken. Leider gibt es hier keine 360\u00b0 Fotos und auf den Luftbildern sind Details wie Einfahrten und die Bushaltestelle nicht gut zu erkennen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3699934"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4916294",
-               "52.398668"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Keine Schilder f\u00fcr eine gesch\u00fctzte Gr\u00fcnanlage, aber in ALKIS hat die Fl\u00e4che den entsprechenden Schl\u00fcssel. Fotos sind bald auf Mapillary verf\u00fcgbar",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3599639"
             ]
          },
          "type" : "Feature"
@@ -134,23 +100,6 @@ geoJsonResponse({
             "name" : "Aktuelle Fotos vom 26.03.2023 sind auf Mapillary. Neue Kreuzung und Wegef\u00fchrung so gut es ging eingetragen, auch die neuen Bushaltestellen sind vorbereitet. Bei Google Earth kann man analog meiner Fotos was sehen",
             "urls" : [
                "https://www.openstreetmap.org/note/3220959"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4962007",
-               "52.4041927"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Hier ist nur ein Schild f\u00fcr Gesch\u00fctzte Gr\u00fcnanlage ohne Radfreigabe. Wie unter https://www.openstreetmap.org/note/3186987 hinterlegt, wird evtl. bald die Mauerwegsroute wieder richtig befahrbar sein, somit die hier umgeleitete Route wegfallen. Habe auch Pan...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3613630"
             ]
          },
          "type" : "Feature"
