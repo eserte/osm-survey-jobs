@@ -1,6 +1,6 @@
 # osm-survey-jobs
 
-A list and map of current possible survey jobs in Berlin can be seen [here](http://bbbike.de/cgi-bin/bbbikeleaflet.cgi?geojsonp_url=https%3A//eserte.github.io/osm-survey-jobs/osm-survey-jobs-berlin.bbbgeojsonp&zoom=11&lat=52.512042&lon=13.421173&bm=O&devel=1).
+A list and map of current possible survey jobs in Berlin can be seen [here](http://bbbike.de/cgi-bin/bbbikeleaflet.cgi?geojsonp_url=https%3A//eserte.github.io/osm-survey-jobs/osm-survey-jobs-berlin.bbbgeojsonp&zoom=11&lat=52.512042&lon=13.421173&bm=O&fl=1).
 
 Current workflow (manually):
 
