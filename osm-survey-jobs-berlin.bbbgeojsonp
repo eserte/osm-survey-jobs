@@ -209,23 +209,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.721838",
-               "52.5564367"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Hinweisschild Naturschutzgebiet (siehe 360\u00b0-Fotos auf Mapillary)",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3292365"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4837851",
                "52.4120304"
             ],
