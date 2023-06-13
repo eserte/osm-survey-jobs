@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3812216",
+               "52.4645764"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Kann jemand (Mapillary-)Fotos von der Stelle machen?",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3730985"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3208907",
                "52.5605395"
             ],
@@ -270,23 +287,6 @@ geoJsonResponse({
             "name" : "Ist ab hier tats\u00e4chlich f\u00fcr Radfahrer verboten? Bei Mapillary sind keine entsprechenden Schilder zu sehen.",
             "urls" : [
                "https://www.openstreetmap.org/note/3206269"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.6450947",
-               "52.4976879"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Hier ist ein Schild mit Naturschutzgebiet und Hinweisen (Verlassen der offiziellen Wege verboten etc.) Fotos sind bald auf Mapillary online",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3134526"
             ]
          },
          "type" : "Feature"
