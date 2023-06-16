@@ -41,4 +41,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add osm-survey-jobs-berlin.bbbgeojsonp
         git commit -m "automatic osm-survey-jobs-berlin.bbbgeojsonp update" && \
-          git push origin gh-pages
+          git push origin gh-pages || true
