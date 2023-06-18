@@ -5,16 +5,33 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3812216",
-               "52.4645764"
+               "13.3745791",
+               "52.5265957"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Kann jemand (Mapillary-)Fotos von der Stelle machen?",
+            "name" : "Mapillary-Bilder dazu werden hochgeladen.",
             "urls" : [
-               "https://www.openstreetmap.org/note/3730985"
+               "https://www.openstreetmap.org/note/3740671"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.45691",
+               "52.53623"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Hier gibt es eine neue Einbahnstra\u00dfe, offen Richtung Norden, Radfahrer frei. Mapillary-Bilder werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3740662"
             ]
          },
          "type" : "Feature"
