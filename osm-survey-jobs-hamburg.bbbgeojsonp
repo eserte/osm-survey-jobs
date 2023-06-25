@@ -1,0 +1,20 @@
+// generated with bbd2geojson from BBBike distribution, see
+// https://github.com/eserte/bbbike/blob/master/miscsrc/bbd2geojson
+geoJsonResponse({
+   "geometry" : {
+      "coordinates" : [
+         "10.0173747",
+         "53.5624938"
+      ],
+      "type" : "Point"
+   },
+   "properties" : {
+      "cat" : "X",
+      "name" : "G4rden3r (on 2023-06-02 10:36:14 UTC) - auf aktuellen Mapillary-Bildern (April 2023), ist hier nicht zu erkennen.",
+      "urls" : [
+         "https://www.openstreetmap.org/note/3611184"
+      ]
+   },
+   "type" : "Feature"
+}
+);
