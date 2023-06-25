@@ -12,7 +12,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Leider gibt es hier kein Mapillary.",
+            "name" : "tordans (on 2023-06-25 04:30:13 UTC) - Leider gibt es hier kein Mapillary.",
             "urls" : [
                "https://www.openstreetmap.org/note/3749295"
             ]
@@ -29,7 +29,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Es gibt hier jetzt einen separaten Fu\u00dfweg, asphaltiert (Bis zum bisherigen Gehweg mit Pflastersteinen). Verlauf ist auf Mapillary zu sehen. Radstreifen selbst ist Beton mit smoothness intermediate, weiterhin nicht nutzungspflichtig (man kann auch die Buspu...",
+            "name" : "StefanHRT (on 2023-05-24 04:17:22 UTC) - Es gibt hier jetzt einen separaten Fu\u00dfweg, asphaltiert (Bis zum bisherigen Gehweg mit Pflastersteinen). Verlauf ist auf Mapillary zu sehen. Radstreifen selbst ist Beton mit smoothness intermediate, weiterhin nicht nutzungspflichtig (man kann auch die Buspu...",
             "urls" : [
                "https://www.openstreetmap.org/note/3703154"
             ]
@@ -46,7 +46,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "mMn ist dort kein offizieller Radweg  mehr, keinerlei Beschilderung zum damaligen Zeitpunkt und Wohnanlage. Ob sich da mittlerweile etwas ge\u00e4ndert hat kann ich aber nicht sagen (zuviele offene Projekte f\u00fcr die GoPro und Mapillary). Wenn es ein Traffic_sign...",
+            "name" : "StefanHRT (on 2023-04-03 11:51:09 UTC) - mMn ist dort kein offizieller Radweg  mehr, keinerlei Beschilderung zum damaligen Zeitpunkt und Wohnanlage. Ob sich da mittlerweile etwas ge\u00e4ndert hat kann ich aber nicht sagen (zuviele offene Projekte f\u00fcr die GoPro und Mapillary). Wenn es ein Traffic_sign...",
             "urls" : [
                "https://www.openstreetmap.org/note/3320841"
             ]
@@ -63,7 +63,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "meiner Meinung nach ist dort weiterhin Radfahrverbot. An den Nodes https://www.openstreetmap.org/node/1736492182 und https://www.openstreetmap.org/node/1701693976 gibt es aktuelle Fotos auf Mapillary mit dem Radfahrverbot (VZ 254) Richtung J\u00fcrgen-Schuhmann...",
+            "name" : "StefanHRT (on 2023-03-29 17:29:42 UTC) - meiner Meinung nach ist dort weiterhin Radfahrverbot. An den Nodes https://www.openstreetmap.org/node/1736492182 und https://www.openstreetmap.org/node/1701693976 gibt es aktuelle Fotos auf Mapillary mit dem Radfahrverbot (VZ 254) Richtung J\u00fcrgen-Schuhmann...",
             "urls" : [
                "https://www.openstreetmap.org/note/3507315"
             ]
@@ -80,7 +80,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Aktuelle Fotos vom 26.03.2023 sind auf Mapillary. Neue Kreuzung und Wegef\u00fchrung so gut es ging eingetragen, auch die neuen Bushaltestellen sind vorbereitet. Bei Google Earth kann man analog meiner Fotos was sehen",
+            "name" : "StefanHRT (on 2023-03-29 17:25:23 UTC) - Aktuelle Fotos vom 26.03.2023 sind auf Mapillary. Neue Kreuzung und Wegef\u00fchrung so gut es ging eingetragen, auch die neuen Bushaltestellen sind vorbereitet. Bei Google Earth kann man analog meiner Fotos was sehen",
             "urls" : [
                "https://www.openstreetmap.org/note/3220959"
             ]
@@ -97,7 +97,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Reopening: zum Beispiel https://www.openstreetmap.org/way/217878976 spezifiziert noch immer maxspeed=10, was auf den Mapillary-Bildern nicht zu sehen ist.",
+            "name" : "eserte (on 2023-03-20 06:32:12 UTC) - Reopening: zum Beispiel https://www.openstreetmap.org/way/217878976 spezifiziert noch immer maxspeed=10, was auf den Mapillary-Bildern nicht zu sehen ist.",
             "urls" : [
                "https://www.openstreetmap.org/note/3271489"
             ]
@@ -114,7 +114,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Ohne Experte daf\u00fcr zu sein, sollte \"tertiary\" (secondary ist es auf jeden Fall nicht) an ein paar Bedingungen gekn\u00fcpft sein:",
+            "name" : "Supaplex030 (on 2023-03-03 19:36:41 UTC) - Ohne Experte daf\u00fcr zu sein, sollte \"tertiary\" (secondary ist es auf jeden Fall nicht) an ein paar Bedingungen gekn\u00fcpft sein:",
             "urls" : [
                "https://www.openstreetmap.org/note/3583175"
             ]
@@ -131,7 +131,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Ich habe drei Skulpturen erg\u00e4nzt, aber eine m\u00fcsste noch fehlen.",
+            "name" : "tordans (on 2023-01-20 16:22:07 UTC) - Ich habe drei Skulpturen erg\u00e4nzt, aber eine m\u00fcsste noch fehlen.",
             "urls" : [
                "https://www.openstreetmap.org/note/3515954"
             ]
@@ -148,7 +148,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "In ein paar Tagen gibt es hier aktuelle Fotos auf Mapillary. An der Zufahrt sowie an der Fassade dieses Geb\u00e4udes ist nur die Schule an den P\u00fcttbergen benannt Aber laut Webseite http://www.schule-an-den-puettbergen.de/conpresso4/_rubric/index.php?rubric=New...",
+            "name" : "StefanHRT (on 2023-01-07 17:39:13 UTC) - In ein paar Tagen gibt es hier aktuelle Fotos auf Mapillary. An der Zufahrt sowie an der Fassade dieses Geb\u00e4udes ist nur die Schule an den P\u00fcttbergen benannt Aber laut Webseite http://www.schule-an-den-puettbergen.de/conpresso4/_rubric/index.php?rubric=New...",
             "urls" : [
                "https://www.openstreetmap.org/note/2674920"
             ]
@@ -165,7 +165,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "ja der ist umz\u00e4unt ;) Mal sehen ob mal jemand aktuelle Fotos f\u00fcr Mapillary macht",
+            "name" : "StefanHRT (on 2023-01-05 06:02:29 UTC) - ja der ist umz\u00e4unt ;) Mal sehen ob mal jemand aktuelle Fotos f\u00fcr Mapillary macht",
             "urls" : [
                "https://www.openstreetmap.org/note/3407313"
             ]
@@ -182,7 +182,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Es gibt neue Fahrradst\u00e4nder und barrier-Steine entlang des B\u00fcrgersteiges. ",
+            "name" : "tordans (on 2023-01-02 08:54:25 UTC) - Es gibt neue Fahrradst\u00e4nder und barrier-Steine entlang des B\u00fcrgersteiges. ",
             "urls" : [
                "https://www.openstreetmap.org/note/3501245"
             ]
@@ -199,7 +199,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Lt mapillary AltbauhochbordRW mit ca. 80 bis 100 cm Breite in beiden Richtungen",
+            "name" : "mardiz (on 2022-11-07 09:42:00 UTC) - Lt mapillary AltbauhochbordRW mit ca. 80 bis 100 cm Breite in beiden Richtungen",
             "urls" : [
                "https://www.openstreetmap.org/note/2691741"
             ]
@@ -216,7 +216,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Station ist fertig, da ist auch Miles mit etlichen Fahrzeugen vorhanden. aktuelle Fotos in ein paar Tagen auf Mapillary",
+            "name" : "StefanHRT (on 2022-08-06 08:46:17 UTC) - Station ist fertig, da ist auch Miles mit etlichen Fahrzeugen vorhanden. aktuelle Fotos in ein paar Tagen auf Mapillary",
             "urls" : [
                "https://www.openstreetmap.org/note/3250277"
             ]
@@ -233,7 +233,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Ist auf den Mapillary-Fotos nicht einzusehen, denke aber das der Container weg ist (Mir sind bisher auch immer nur solche Container im \u00f6ffentlichen Stra\u00dfenland aufgefallen)",
+            "name" : "StefanHRT (on 2022-06-22 07:32:53 UTC) - Ist auf den Mapillary-Fotos nicht einzusehen, denke aber das der Container weg ist (Mir sind bisher auch immer nur solche Container im \u00f6ffentlichen Stra\u00dfenland aufgefallen)",
             "urls" : [
                "https://www.openstreetmap.org/note/3002234"
             ]
@@ -250,7 +250,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Den Weg gibt es wohl nicht mehr, f\u00fchrt in ein Naturschutzgebiet (siehe Mapillary). Der anschliessende Weg m\u00fcsste ebenfalls gepr\u00fcft werden. Hinweis ist auch als fixme auf dem Weg hinterlegt.",
+            "name" : "StefanHRT (on 2022-06-14 06:24:06 UTC) - Den Weg gibt es wohl nicht mehr, f\u00fchrt in ein Naturschutzgebiet (siehe Mapillary). Der anschliessende Weg m\u00fcsste ebenfalls gepr\u00fcft werden. Hinweis ist auch als fixme auf dem Weg hinterlegt.",
             "urls" : [
                "https://www.openstreetmap.org/note/3223722"
             ]
@@ -267,7 +267,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Bin heute in dem Bereich einmal mit der 360\u00b0-Cam lang. ein paar Wege werde ich gleich bearbeiten, der Rest kann gemacht werden wenn die Fotos auf Mapillary verf\u00fcgbar sind. Was mir aufgefallen ist deckt sich mit den gesetzlichen Bestimmungen f\u00fcr Gesch\u00fctzte ...",
+            "name" : "StefanHRT (on 2022-06-12 11:14:38 UTC) - Bin heute in dem Bereich einmal mit der 360\u00b0-Cam lang. ein paar Wege werde ich gleich bearbeiten, der Rest kann gemacht werden wenn die Fotos auf Mapillary verf\u00fcgbar sind. Was mir aufgefallen ist deckt sich mit den gesetzlichen Bestimmungen f\u00fcr Gesch\u00fctzte ...",
             "urls" : [
                "https://www.openstreetmap.org/note/3088778"
             ]
@@ -284,7 +284,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Ist ab hier tats\u00e4chlich f\u00fcr Radfahrer verboten? Bei Mapillary sind keine entsprechenden Schilder zu sehen.",
+            "name" : "eserte (on 2022-06-02 05:07:51 UTC) - Ist ab hier tats\u00e4chlich f\u00fcr Radfahrer verboten? Bei Mapillary sind keine entsprechenden Schilder zu sehen.",
             "urls" : [
                "https://www.openstreetmap.org/note/3206269"
             ]
@@ -301,7 +301,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Kann es sein, da\u00df nur einzelne Kurse dort langfahren  [Sch\u00fclerverkehr, Morgen-oder Abendverkehr)    Auf mapillary ist sogar ein Bus 806 zu sehen (mtek 14.1.21)    seltsam....",
+            "name" : "mardiz (on 2022-04-01 15:51:26 UTC) - Kann es sein, da\u00df nur einzelne Kurse dort langfahren  [Sch\u00fclerverkehr, Morgen-oder Abendverkehr)    Auf mapillary ist sogar ein Bus 806 zu sehen (mtek 14.1.21)    seltsam....",
             "urls" : [
                "https://www.openstreetmap.org/note/2805017"
             ]
@@ -318,7 +318,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Park und Spielplatz ist seit gestern er\u00f6ffnet. Erstes Update in https://www.openstreetmap.org/changeset/117278088. Mapillary Fotos vom Gel\u00e4nde laden hoch. Ist aber noch sehr grob gemappt. Ich schlage vor, die Note offen zu lassen als Reminder, hier genauer...",
+            "name" : "tordans (on 2022-02-11 08:53:52 UTC) - Park und Spielplatz ist seit gestern er\u00f6ffnet. Erstes Update in https://www.openstreetmap.org/changeset/117278088. Mapillary Fotos vom Gel\u00e4nde laden hoch. Ist aber noch sehr grob gemappt. Ich schlage vor, die Note offen zu lassen als Reminder, hier genauer...",
             "urls" : [
                "https://www.openstreetmap.org/note/3033236"
             ]
@@ -335,7 +335,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Bilder gibt es \u00fcbrigens auf Mapillary",
+            "name" : "StefanHRT (on 2022-01-27 15:37:52 UTC) - Bilder gibt es \u00fcbrigens auf Mapillary",
             "urls" : [
                "https://www.openstreetmap.org/note/3026837"
             ]
@@ -352,7 +352,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Leider haben die meisten Mapillary Bilder ihr GPS verloren, so dass ich doch kaum etwas hochladen kann.",
+            "name" : "tordans (on 2021-11-13 07:09:14 UTC) - Leider haben die meisten Mapillary Bilder ihr GPS verloren, so dass ich doch kaum etwas hochladen kann.",
             "urls" : [
                "https://www.openstreetmap.org/note/2921552"
             ]
@@ -369,7 +369,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Update: Ich lade gerade 360\u00b0 Mapillary Fotos hoch.",
+            "name" : "tordans (on 2021-10-17 18:08:26 UTC) - Update: Ich lade gerade 360\u00b0 Mapillary Fotos hoch.",
             "urls" : [
                "https://www.openstreetmap.org/note/2896128"
             ]
@@ -386,7 +386,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Hallo,",
+            "name" : "StefanHRT (on 2021-09-15 09:09:42 UTC) - Hallo,",
             "urls" : [
                "https://www.openstreetmap.org/note/2688012"
             ]
@@ -403,7 +403,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Spielplatz und Park sind nun umgestaltet. Habe einige Panoramafotos zum Micromappen gemacht \u2013 sobald es neue Luftbilder aus 2021 gibt, kann ich noch ein bisschen mehr Micromappen. Kann die Bilder leider gerade nicht bei Mapillary oder KartaView hochladen :...",
+            "name" : "Supaplex030 (on 2021-06-23 12:38:56 UTC) - Spielplatz und Park sind nun umgestaltet. Habe einige Panoramafotos zum Micromappen gemacht \u2013 sobald es neue Luftbilder aus 2021 gibt, kann ich noch ein bisschen mehr Micromappen. Kann die Bilder leider gerade nicht bei Mapillary oder KartaView hochladen :...",
             "urls" : [
                "https://www.openstreetmap.org/note/2199176"
             ]
@@ -420,7 +420,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "mast ref. no. from 13 or 14 onwards tbc (mast no. 13 listed in Geoportal Berlin, but not existing on Mapillary photo)",
+            "name" : "lightbuster (on 2021-05-17 14:23:28 UTC) - mast ref. no. from 13 or 14 onwards tbc (mast no. 13 listed in Geoportal Berlin, but not existing on Mapillary photo)",
             "urls" : [
                "https://www.openstreetmap.org/note/2672661"
             ]
@@ -437,7 +437,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Hier ist der Kreuzungsbereich etwas anders, Beide Richtungen sind separat und durch z.B. eine Mittelinsel getrennt. Man sieht es auf der Bingkarte und auch in den Mapillarybildern",
+            "name" : "StefanHRT (on 2020-11-27 07:46:22 UTC) - Hier ist der Kreuzungsbereich etwas anders, Beide Richtungen sind separat und durch z.B. eine Mittelinsel getrennt. Man sieht es auf der Bingkarte und auch in den Mapillarybildern",
             "urls" : [
                "https://www.openstreetmap.org/note/2442787"
             ]
@@ -454,7 +454,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Die Kuckhoffstra\u00dfe ist abschnittsweise asphaltiert. Ich glaube, dass entsprechende Bilder bei Mapillary existieren.",
+            "name" : "eserte (on 2020-09-20 20:22:45 UTC) - Die Kuckhoffstra\u00dfe ist abschnittsweise asphaltiert. Ich glaube, dass entsprechende Bilder bei Mapillary existieren.",
             "urls" : [
                "https://www.openstreetmap.org/note/2356638"
             ]
@@ -471,7 +471,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "In der Ungarnstra\u00dfe gibt es Radwege (Details bei Mapillary oder BBBike).",
+            "name" : "eserte (on 2020-09-05 16:38:15 UTC) - In der Ungarnstra\u00dfe gibt es Radwege (Details bei Mapillary oder BBBike).",
             "urls" : [
                "https://www.openstreetmap.org/note/2336666"
             ]
@@ -488,7 +488,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Die Kinder in einem alten Teilgeb\u00e4ude ist bereits in Benutzung. Einige der Wohnungen/Geb\u00e4ude scheinen auch schon bewohnt zu sein. Insgesamt aber alles noch Baustelle und noch keine Beschilderung. Ein paar Mapillary Fotos folgen. F\u00fcr DHL und Co. w\u00e4re es sic...",
+            "name" : "tordans (on 2020-08-11 11:32:11 UTC) - Die Kinder in einem alten Teilgeb\u00e4ude ist bereits in Benutzung. Einige der Wohnungen/Geb\u00e4ude scheinen auch schon bewohnt zu sein. Insgesamt aber alles noch Baustelle und noch keine Beschilderung. Ein paar Mapillary Fotos folgen. F\u00fcr DHL und Co. w\u00e4re es sic...",
             "urls" : [
                "https://www.openstreetmap.org/note/2088941"
             ]
@@ -505,7 +505,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Laut Mapillary \u00e4ndert sich ungef\u00e4hr hier die Fahrbahnbeschaffenheit: nordwestlich schlechtes Kopfsteinpflaster, s\u00fcd\u00f6stlich \u00fcbliches Berliner Gro\u00dfsteinpflaster.",
+            "name" : "eserte (on 2020-05-08 14:39:27 UTC) - Laut Mapillary \u00e4ndert sich ungef\u00e4hr hier die Fahrbahnbeschaffenheit: nordwestlich schlechtes Kopfsteinpflaster, s\u00fcd\u00f6stlich \u00fcbliches Berliner Gro\u00dfsteinpflaster.",
             "urls" : [
                "https://www.openstreetmap.org/note/2185656"
             ]
@@ -522,7 +522,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Das ist ja das Merkw\u00fcrdige, es kann sein, dass das eine oder andere Schild entfernt wurde, z.B. \"Radfahrende frei\". Das Mauerweg-Schild an dieser Stelle l\u00e4\u00dft vermuten, dass dieser geradeaus f\u00fchrt. Bei mapillary ist auch ein Bild (von kartonage) mit der von...",
+            "name" : "mardiz (on 2019-08-17 15:08:31 UTC) - Das ist ja das Merkw\u00fcrdige, es kann sein, dass das eine oder andere Schild entfernt wurde, z.B. \"Radfahrende frei\". Das Mauerweg-Schild an dieser Stelle l\u00e4\u00dft vermuten, dass dieser geradeaus f\u00fchrt. Bei mapillary ist auch ein Bild (von kartonage) mit der von...",
             "urls" : [
                "https://www.openstreetmap.org/note/1807061"
             ]
