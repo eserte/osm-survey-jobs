@@ -1,0 +1,20 @@
+// generated with bbd2geojson from BBBike distribution, see
+// https://github.com/eserte/bbbike/blob/master/miscsrc/bbd2geojson
+geoJsonResponse({
+   "geometry" : {
+      "coordinates" : [
+         "12.3685241",
+         "51.3578673"
+      ],
+      "type" : "Point"
+   },
+   "properties" : {
+      "cat" : "X",
+      "name" : "deichzerleger (on 2021-11-18 09:09:57 UTC) - Ein Betrieb namens \"GO40\" ist zumindest via Mapillary nicht zu erkennen. Bitte Existenz des Betriebs \u00fcberpr\u00fcfen - ggf. im Geb\u00e4ude des Bio-Ladens?",
+      "urls" : [
+         "https://www.openstreetmap.org/note/2939555"
+      ]
+   },
+   "type" : "Feature"
+}
+);
