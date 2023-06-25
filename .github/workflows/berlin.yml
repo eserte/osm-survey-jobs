@@ -1,7 +1,17 @@
 name: Create GitHub Pages
+run-name: Create GitHub Pages for ${{ inputs.areaname }}
 
 on:
   workflow_dispatch:
+    inputs:
+      areaname:
+        type: choice
+        options:
+          - berlin
+          - hamburg
+          - leipzig
+        default: berlin
+
   schedule:
     - cron: '0 8 * * *'
 
@@ -26,12 +36,29 @@ jobs:
         repository: eserte/bbbike
         path: src/bbbike
 
-    - name: Create osm-survey-jobs-berlin.bbbgeojsonp
+    - name: Determine area and bbox
+      run: |
+        if [ "${{ inputs.areaname }}" = "" ]
+        then
+            areaname=berlin
+        else
+            areaname=${{ inputs.areaname }}
+        fi
+        case "$areaname" in
+            berlin)  areabbox=13.051179,52.337621,13.764158,52.689878 ;;
+            hamburg) areabbox=9.8112,53.3947,10.2536,53.6957 ;;
+            leipzig) areabbox=12.1935,51.2463,12.5825,51.4309 ;;
+            *) echo "ERROR: cannot get area bbox for $areaname"; exit 1 ;;
+        esac
+        echo "AREANAME=$areaname" >> $GITHUB_ENV
+        echo "AREABBOX=$areabbox" >> $GITHUB_ENV
+
+    - name: Create osm-survey-jobs-*.bbbgeojsonp
       run: |
         set -ex
-        wget 'https://api.openstreetmap.org/api/0.6/notes.json?bbox=13.051179,52.337621,13.764158,52.689878&limit=10000&closed=0' -O /tmp/notes-berlin.json
-        ./find-osm-survey-jobs.pl /tmp/notes-berlin.json > /tmp/osm-survey-jobs-berlin.bbd
-        PERL5LIB=$(pwd)/lib $GITHUB_WORKSPACE/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp -manipulatemodule GeoJSONFeatProps /tmp/osm-survey-jobs-berlin.bbd > $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages/osm-survey-jobs-berlin.bbbgeojsonp
+        wget 'https://api.openstreetmap.org/api/0.6/notes.json?bbox='$AREABBOX'&limit=10000&closed=0' -O /tmp/notes-$AREANAME.json
+        ./find-osm-survey-jobs.pl /tmp/notes-$AREANAME.json > /tmp/osm-survey-jobs-$AREANAME.bbd
+        PERL5LIB=$(pwd)/lib $GITHUB_WORKSPACE/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp -manipulatemodule GeoJSONFeatProps /tmp/osm-survey-jobs-$AREANAME.bbd > $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages/osm-survey-jobs-$AREANAME.bbbgeojsonp
 
     - name: Prepare changes to gh-pages
       run: |
@@ -39,6 +66,6 @@ jobs:
         cd $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add osm-survey-jobs-berlin.bbbgeojsonp
-        git commit -m "automatic osm-survey-jobs-berlin.bbbgeojsonp update" && \
+        git add osm-survey-jobs-$AREANAME.bbbgeojsonp
+        git commit -m "automatic osm-survey-jobs-$AREANAME.bbbgeojsonp update" && \
           git push origin gh-pages || true
