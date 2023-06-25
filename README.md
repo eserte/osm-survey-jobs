@@ -4,7 +4,7 @@
 
 Lists and maps of currently available survey jobs can be seen here:
 
-* [Berlin](http://bbbike.de/cgi-bin/bbbikeleaflet.cgi?geojsonp_url=https%3A//eserte.github.io/osm-survey-jobs/osm-survey-jobs-berlin.bbbgeojsonp&zoom=11&lat=52.512042&lon=13.421173&bm=O&fl=1)
+* [Berlin](http://bbbike.de/cgi-bin/bbbikeleaflet.cgi?geojsonp_url=https%3A//eserte.github.io/osm-survey-jobs/osm-survey-jobs-berlin.bbbgeojsonp&bm=O&fl=1)
 
 ## Workflow to create maps:
 
@@ -31,8 +31,8 @@ Lists and maps of currently available survey jobs can be seen here:
 
 * Load it:
 
-    http://localhost/bbbike/cgi/bbbikeleaflet.cgi?geojsonp_url=/bbbike/tmp/bbbgeojsonp/osm-survey-jobs-berlin.bbbgeojsonp&zoom=11&lat=52.512042&lon=13.421173&bm=O
-    http://bbbike.de/cgi-bin/bbbikeleaflet.cgi?geojsonp_url=/BBBike/tmp/bbbgeojsonp/osm-survey-jobs-berlin.bbbgeojsonp&zoom=11&lat=52.512042&lon=13.421173&bm=O
+    http://localhost/bbbike/cgi/bbbikeleaflet.cgi?geojsonp_url=/bbbike/tmp/bbbgeojsonp/osm-survey-jobs-berlin.bbbgeojsonp&bm=O
+    http://bbbike.de/cgi-bin/bbbikeleaflet.cgi?geojsonp_url=/BBBike/tmp/bbbgeojsonp/osm-survey-jobs-berlin.bbbgeojsonp&bm=O
 
 GitHub workflow:
 
