@@ -14,7 +14,7 @@ Current workflow (manually):
 
 * Convert this file into a geojson file usable for jsonp loading. Requires a checkout of https://github.com/eserte/bbbike in ~/src/bbbike:
 
-    ~/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp /tmp/osm-survey-jobs-berlin.bbd >| /tmp/osm-survey-jobs-berlin.bbbgeojsonp
+    PERL5LIB=$(pwd)/lib ~/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp -manipulatemodule GeoJSONFeatProps /tmp/osm-survey-jobs-berlin.bbd >| /tmp/osm-survey-jobs-berlin.bbbgeojsonp
 
 * Copy the generated .bbbgeojsonp file to a suitable webserver. If bbbike is running locally, then this can be done with:
 

@@ -31,7 +31,7 @@ jobs:
         set -ex
         wget 'https://api.openstreetmap.org/api/0.6/notes.json?bbox=13.051179,52.337621,13.764158,52.689878&limit=10000&closed=0' -O /tmp/notes-berlin.json
         ./find-osm-survey-jobs.pl /tmp/notes-berlin.json > /tmp/osm-survey-jobs-berlin.bbd
-        $GITHUB_WORKSPACE/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp /tmp/osm-survey-jobs-berlin.bbd > $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages/osm-survey-jobs-berlin.bbbgeojsonp
+        PERL5LIB=$(pwd)/lib $GITHUB_WORKSPACE/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp -manipulatemodule GeoJSONFeatProps /tmp/osm-survey-jobs-berlin.bbd > $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages/osm-survey-jobs-berlin.bbbgeojsonp
 
     - name: Prepare changes to gh-pages
       run: |
