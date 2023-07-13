@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4575",
-               "52.46465"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-07-11 20:01:42 UTC) - Die Bergiusstra\u00dfe ist wieder durchg\u00e4ngig befahrbar (auch f\u00fcr Kfz), keine Einbahnstra\u00dfe mehr, auf der Fahrbahn sind Radspuren markiert. An der Autobahnausfahrt ist eine (noch provisorische) Ampel. Mapillary-Fotos werden hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3775731"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.1886545",
                "52.6558968"
             ],
@@ -185,23 +168,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2023-01-05 06:02:29 UTC) - ja der ist umz\u00e4unt ;) Mal sehen ob mal jemand aktuelle Fotos f\u00fcr Mapillary macht",
             "urls" : [
                "https://www.openstreetmap.org/note/3407313"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.436797",
-               "52.4883957"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2023-01-02 08:54:25 UTC) - Es gibt neue Fahrradst\u00e4nder und barrier-Steine entlang des B\u00fcrgersteiges. ",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3501245"
             ]
          },
          "type" : "Feature"
