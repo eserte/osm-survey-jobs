@@ -141,23 +141,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.7034709",
-               "52.4342089"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-01-07 17:39:13 UTC) - In ein paar Tagen gibt es hier aktuelle Fotos auf Mapillary. An der Zufahrt sowie an der Fassade dieses Geb\u00e4udes ist nur die Schule an den P\u00fcttbergen benannt Aber laut Webseite http://www.schule-an-den-puettbergen.de/conpresso4/_rubric/index.php?rubric=New...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2674920"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4329668",
                "52.5386696"
             ],
