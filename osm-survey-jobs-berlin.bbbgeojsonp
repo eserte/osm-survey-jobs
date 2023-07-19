@@ -90,23 +90,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.33019",
-               "52.51986"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-03-20 06:32:12 UTC) - Reopening: zum Beispiel https://www.openstreetmap.org/way/217878976 spezifiziert noch immer maxspeed=10, was auf den Mapillary-Bildern nicht zu sehen ist.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3271489"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3854139",
                "52.518715"
             ],
