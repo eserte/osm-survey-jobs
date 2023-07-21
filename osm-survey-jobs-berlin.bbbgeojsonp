@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.50461",
+               "52.38121"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2023-07-21 06:07:23 UTC) - Meiner Erinnerung und auch Mapillary nach ist das gesamte Gel\u00e4nde nur f\u00fcr das Flughafenpersonal und Angeh\u00f6rige der ans\u00e4ssigen Unternehmen(ab dem Shop Ringeltaube Willy-Brandt-Stra\u00dfe) aber es wurde das Tor und der Access jetzt entfernt. Hier m\u00fcsste noch ein...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3539267"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.1886545",
                "52.6558968"
             ],
