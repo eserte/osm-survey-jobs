@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.59635",
-               "52.54119"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-07-23 14:38:25 UTC) - Hier gibt es einen neuen asphaltierten Weg parallel zum Havell\u00e4nder Ring mit Anschluss an die Ecke Elfriede-Br\u00fcning-Str./Eva-Strittmatter-Str.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3794776"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3056235",
                "52.5101486"
             ],
