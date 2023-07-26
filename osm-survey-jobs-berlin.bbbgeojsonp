@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3056235",
-               "52.5101486"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-07-22 16:40:19 UTC) - Ist passiert. Mapillary-Bilder werden gerade hochgeladen...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3747828"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4383446",
                "52.4948515"
             ],
@@ -491,23 +474,6 @@ geoJsonResponse({
             "name" : "eserte (on 2020-09-05 16:38:15 UTC) - In der Ungarnstra\u00dfe gibt es Radwege (Details bei Mapillary oder BBBike).",
             "urls" : [
                "https://www.openstreetmap.org/note/2336666"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4231311",
-               "52.4642005"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2020-08-11 11:32:11 UTC) - Die Kinder in einem alten Teilgeb\u00e4ude ist bereits in Benutzung. Einige der Wohnungen/Geb\u00e4ude scheinen auch schon bewohnt zu sein. Insgesamt aber alles noch Baustelle und noch keine Beschilderung. Ein paar Mapillary Fotos folgen. F\u00fcr DHL und Co. w\u00e4re es sic...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2088941"
             ]
          },
          "type" : "Feature"
