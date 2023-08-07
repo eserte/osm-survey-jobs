@@ -447,23 +447,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.39496",
-               "52.58269"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2020-09-20 20:22:45 UTC) - Die Kuckhoffstra\u00dfe ist abschnittsweise asphaltiert. Ich glaube, dass entsprechende Bilder bei Mapillary existieren.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2356638"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3542",
                "52.5541"
             ],
