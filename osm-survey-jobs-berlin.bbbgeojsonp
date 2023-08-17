@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.7297454",
+               "52.453028"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2023-08-16 08:46:15 UTC) - Die Grundst\u00fcckszufahrt ist meines Wissens nach vom Eichendamm und die Geb\u00e4udeform in OSM passt auch nicht mehr, denke mal hier wurde neu gebaut. Mal sehen ob ich irgendwann auch in dem Bereich mit der 360\u00b0-GoPro lang komme",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3756263"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3453846",
                "52.5450299"
             ],
@@ -389,23 +406,6 @@ geoJsonResponse({
             "name" : "tordans (on 2021-10-17 18:08:26 UTC) - Update: Ich lade gerade 360\u00b0 Mapillary Fotos hoch.",
             "urls" : [
                "https://www.openstreetmap.org/note/2896128"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.2766771",
-               "52.3505968"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2021-09-15 09:09:42 UTC) - Hallo,",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2688012"
             ]
          },
          "type" : "Feature"
