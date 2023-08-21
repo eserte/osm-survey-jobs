@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.248672",
+               "52.5507076"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2023-08-20 09:46:05 UTC) - Br\u00fcckenfortschritt 19.08.2023 Br\u00fccke augenscheinlich fertig, Stra\u00dfe asphaltiert, Gehweg in der Mache. Radweg vermutlich dann bis zur Br\u00fccke lane, auf der Br\u00fccke track. Sollte Mapillary das Bild mal freigeben f\u00fcge ich das hinzu",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3843627"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.7297454",
                "52.453028"
             ],
