@@ -107,23 +107,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3208907",
-               "52.5605395"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-05-24 04:17:22 UTC) - Es gibt hier jetzt einen separaten Fu\u00dfweg, asphaltiert (Bis zum bisherigen Gehweg mit Pflastersteinen). Verlauf ist auf Mapillary zu sehen. Radstreifen selbst ist Beton mit smoothness intermediate, weiterhin nicht nutzungspflichtig (man kann auch die Buspu...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3703154"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.5985824",
                "52.6714526"
             ],
@@ -474,23 +457,6 @@ geoJsonResponse({
             "name" : "eserte (on 2020-09-05 16:38:15 UTC) - In der Ungarnstra\u00dfe gibt es Radwege (Details bei Mapillary oder BBBike).",
             "urls" : [
                "https://www.openstreetmap.org/note/2336666"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.28631",
-               "52.43586"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2020-05-08 14:39:27 UTC) - Laut Mapillary \u00e4ndert sich ungef\u00e4hr hier die Fahrbahnbeschaffenheit: nordwestlich schlechtes Kopfsteinpflaster, s\u00fcd\u00f6stlich \u00fcbliches Berliner Gro\u00dfsteinpflaster.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2185656"
             ]
          },
          "type" : "Feature"
