@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.7197697",
-               "52.4692271"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-09-02 17:13:42 UTC) - Das ist weiter n\u00f6rdlich, da ist auch was in OSM hinterlegt. hier hatte ich heute nichts gesehen. In ein paar Tagen sind auch Fotos auf Mapillary verf\u00fcgbar",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2615715"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.7297454",
                "52.453028"
             ],
