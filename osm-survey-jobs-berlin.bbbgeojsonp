@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5293171",
+               "52.6288221"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2023-09-05 04:32:11 UTC) - gibt es die Ladestation noch? Konnte da auf aktuellen Fotos (Mapillary) nichts erkennen",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3872021"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.7297454",
                "52.453028"
             ],
