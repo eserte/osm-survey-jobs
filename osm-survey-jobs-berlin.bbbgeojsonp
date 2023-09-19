@@ -141,23 +141,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5985824",
-               "52.6714526"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-04-03 11:51:09 UTC) - mMn ist dort kein offizieller Radweg  mehr, keinerlei Beschilderung zum damaligen Zeitpunkt und Wohnanlage. Ob sich da mittlerweile etwas ge\u00e4ndert hat kann ich aber nicht sagen (zuviele offene Projekte f\u00fcr die GoPro und Mapillary). Wenn es ein Traffic_sign...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3320841"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.5342535",
                "52.3830984"
             ],
