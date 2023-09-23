@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3303347",
-               "52.5413059"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-09-20 02:07:33 UTC) - Fl\u00e4chen in https://www.openstreetmap.org/changeset/141490850 hinterlegt (mit Bildverlinkung zu Mapillary). Lasse die Note noch offen, da das tagging sicher nicht ganz korrekt ist. Links ist f\u00fcr Motorr\u00e4der und Cargobikes, rechts f\u00fcr Fahrr\u00e4der und e-Scooter",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3884350"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.5469848",
                "52.6312461"
             ],
