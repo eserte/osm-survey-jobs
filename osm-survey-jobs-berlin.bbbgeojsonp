@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3618855",
+               "52.5448342"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2023-09-23 16:15:08 UTC) - Ich habe gerade in https://www.openstreetmap.org/changeset/141651920 nochmal Details eingetragen (von hier nach Westen). \u2014 Es fehlen uns aber noch durchgehende 360\u00b0 Fotos der Fahrradstra\u00dfe um all die Details an Fu\u00dfg\u00e4nger\u00fcberg\u00e4ngen und Co einzutragen. Die B...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3475694"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4464073",
                "52.4946637"
             ],
@@ -185,23 +202,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2023-03-29 17:25:23 UTC) - Aktuelle Fotos vom 26.03.2023 sind auf Mapillary. Neue Kreuzung und Wegef\u00fchrung so gut es ging eingetragen, auch die neuen Bushaltestellen sind vorbereitet. Bei Google Earth kann man analog meiner Fotos was sehen",
             "urls" : [
                "https://www.openstreetmap.org/note/3220959"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.3854139",
-               "52.518715"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Supaplex030 (on 2023-03-03 19:36:41 UTC) - Ohne Experte daf\u00fcr zu sein, sollte \"tertiary\" (secondary ist es auf jeden Fall nicht) an ein paar Bedingungen gekn\u00fcpft sein:",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3583175"
             ]
          },
          "type" : "Feature"
