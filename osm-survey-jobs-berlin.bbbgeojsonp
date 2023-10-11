@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3461758",
+               "52.4249977"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2023-10-11 05:54:20 UTC) - Da die Note scheinbar mal wieder gegen mich geht, gibt es auch ein Feedback: Von der Gallwitzallee und von der Geraer Stra\u00dfe ist das Radfahren erlaubt, Fu\u00dfg\u00e4nger haben Vorrang (bicycle=designated m\u00fcsste eigentlich bicycle=yes sein). Von der Seydlitzstra\u00dfe ...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3777653"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.37748",
                "52.5121956"
             ],
