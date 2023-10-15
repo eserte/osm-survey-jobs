@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3771527",
+               "52.482839"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-10-15 08:33:48 UTC) - Richtung Norden weitgehend markiert, aber noch nicht freigegeben. Richtung S\u00fcden ist noch nichts passiert. Mapillary-Bilder werden bald verf\u00fcgbar sein.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3870922"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.25001",
                "52.54671"
             ],
@@ -32,40 +49,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2023-10-11 05:54:20 UTC) - Da die Note scheinbar mal wieder gegen mich geht, gibt es auch ein Feedback: Von der Gallwitzallee und von der Geraer Stra\u00dfe ist das Radfahren erlaubt, Fu\u00dfg\u00e4nger haben Vorrang (bicycle=designated m\u00fcsste eigentlich bicycle=yes sein). Von der Seydlitzstra\u00dfe ...",
             "urls" : [
                "https://www.openstreetmap.org/note/3777653"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.37748",
-               "52.5121956"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2023-10-03 14:56:03 UTC) - Mapillary Fotos Lade ich heute hoch.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3756465"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.3681726",
-               "52.5074713"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-09-26 20:13:18 UTC) - Nein, beide Fahrbahnen und der n\u00f6rdliche Gehweg sind wegen Hochbauarbeiten gesperrt. Nur der s\u00fcdliche Gehweg ist frei. Mapillary-Bilder dazu habe ich gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3884479"
             ]
          },
          "type" : "Feature"
