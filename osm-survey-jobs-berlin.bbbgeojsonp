@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.52818",
+               "52.58145"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-10-22 15:20:52 UTC) - Bauarbeiten sind beendet. Zwischen Birkholzer Weg und Stra\u00dfe 6 ist hier nun eine Einbahnstra\u00dfe, offen Richtung Osten. Die Stra\u00dfe wurde neu asphaltiert, im Bereich der Bushaltestellen betoniert.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3783703"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.574499",
                "52.5551026"
             ],
