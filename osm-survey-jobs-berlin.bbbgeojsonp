@@ -5,16 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4797096",
-               "52.4717922"
+               "13.3840621",
+               "52.487437"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "StefanHRT (on 2023-10-29 05:25:54 UTC) - Bei Lila B\u00e4cker l\u00e4uft wieder irgendwas mit einer erneuten Insolvenz. In vielen Discountern, wo die drin sind/waren, wird auch von den Discountern eigene Backware angeboten (z.B. REWE) daher verschwinden diese zus\u00e4tzlichen B\u00e4cker wohl nach und nach. Bei dem...",
+            "name" : "eserte (on 2023-10-29 14:18:42 UTC) - Ich lade gerade Mapillary-Bilder von der Stelle hoch.",
             "urls" : [
-               "https://www.openstreetmap.org/note/3900635"
+               "https://www.openstreetmap.org/note/3377975"
             ]
          },
          "type" : "Feature"
