@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.49528",
+               "52.46657"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-10-30 18:43:42 UTC) - Die Verkehrsf\u00fchrung hat sich ge\u00e4ndert. Die s\u00fcdwestliche Br\u00fcckenh\u00e4lfte ist nun gesperrt, der gesamte Verkehr geht \u00fcber die nord\u00f6stliche Seite. Fu\u00dfg\u00e4nger+Radfahrer haben dort eine eigene Behelfsbr\u00fccke.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3775734"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3840621",
                "52.487437"
             ],
