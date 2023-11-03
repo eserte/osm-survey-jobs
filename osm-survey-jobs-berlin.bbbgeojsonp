@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.51062",
+               "52.53883"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-11-02 16:58:19 UTC) - Hier entsteht eine neue Stra\u00dfenverbindung im Verlauf der Plauener Stra\u00dfe. Mapillary-Bilder werden bald hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3969997"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.51741",
                "52.47131"
             ],
