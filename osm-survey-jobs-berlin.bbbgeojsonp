@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.33315",
+               "52.40764"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-11-04 14:55:19 UTC) - Wurde zwischen Mauerweg und Jenbacher Weg asphaltiert. Mapillary-Bilder dazu werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3972799"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.51741",
                "52.47131"
             ],
