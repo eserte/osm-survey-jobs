@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2647011",
+               "52.4846734"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-11-06 15:51:24 UTC) - Hier gibt es weder eine gelbe noch eine wei\u00dfe Markierung. Der Mast ist noch immer weggedreht. Ich vermute mal, dass f\u00fcr die Mastbauarbeiten der gesamte Gehweg gesperrt war und deshalb zwischenzeitlich die beiden provisorischen Zebrastreifen eingerichtet wu...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3624572"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.33315",
                "52.40764"
             ],
