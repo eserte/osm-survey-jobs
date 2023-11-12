@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5101902",
+               "52.4537211"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-11-11 12:24:41 UTC) - Bauzeitliche \u00c4nderung an der Verkehrsf\u00fchrung:",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3982694"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.574499",
                "52.5551026"
             ],
