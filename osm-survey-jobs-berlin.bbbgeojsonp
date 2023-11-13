@@ -5,16 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5101902",
-               "52.4537211"
+               "13.3480116",
+               "52.4316096"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "eserte (on 2023-11-11 12:24:41 UTC) - Bauzeitliche \u00c4nderung an der Verkehrsf\u00fchrung:",
+            "name" : "Ygramul (on 2023-11-12 21:01:42 UTC) - Rutsche und structure eingetragen. Genaue Geometrie von all dem ist leider mit den verf\u00fcgbaren Luft- und Mapillary-Bildern nicht erkennbar.",
             "urls" : [
-               "https://www.openstreetmap.org/note/3982694"
+               "https://www.openstreetmap.org/note/3982986"
             ]
          },
          "type" : "Feature"
