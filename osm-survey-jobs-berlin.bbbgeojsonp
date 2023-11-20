@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5341102",
+               "52.5098939"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-11-19 13:47:54 UTC) - Der Geh-/Radweg direkt an der Stra\u00dfe Alt-Friedrichsfelde ist wegen Bauarbeiten gesperrt, die Umleitung verl\u00e4uft hier. Dieser Weg ist mittlerweile ordentlich asphaltiert. Die Bauarbeiten werden wohl bis zum Fr\u00fchjahr 2024 dauern, bei der VIZ gibt es eine m\u00f6g...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3993885"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3917975",
                "52.3981475"
             ],
