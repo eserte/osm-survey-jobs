@@ -39,23 +39,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.574499",
-               "52.5551026"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-10-17 05:29:12 UTC) - Baustelle wurde heute (17.10.2023) er\u00f6ffnet und in https://www.openstreetmap.org/changeset/142693810 hinterlegt. Lade sp\u00e4ter noch Fotos auf Mapillary hoch",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3852908"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3461758",
                "52.4249977"
             ],
