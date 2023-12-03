@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.43618",
-               "52.51258"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-11-23 20:47:11 UTC) - Die Fahrbahn der M\u00fcncheberger Stra\u00dfe ist im Bereich der Baustelle gesperrt, nur der n\u00f6rdliche Gehweg ist noch passierbar (Fotos wurden heute bei Mapillary hochgeladen). Dieser Bereich wurde auch im Amtsblatt 46/2023 als \u00f6ffentliches Stra\u00dfenland eingezogen,...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3999505"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3917975",
                "52.3981475"
             ],
