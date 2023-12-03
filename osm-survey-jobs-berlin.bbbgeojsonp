@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3917975",
-               "52.3981475"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-11-18 14:55:20 UTC) - Mittlerweile ist die Zufahrt per Poller abgesperrt. Im Wendehammer wurden Fahrradb\u00fcgel aufgestellt. Mapillary-Bilder werden gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3101163"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3480116",
                "52.4316096"
             ],
