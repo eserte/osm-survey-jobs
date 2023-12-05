@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3752537",
+               "52.5088295"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-12-04 17:40:55 UTC) - Mittlerweile ist die Fu\u00dfg\u00e4ngerzone f\u00fcr Radfahrer und Elektrokleinstfahrzeuge freigegeben. Entsprechende Schilder h\u00e4ngen an der Einm\u00fcndung Potsdamer Stra\u00dfe. Mapillary-Bild dazu wird gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3363562"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3802855",
                "52.5136092"
             ],
