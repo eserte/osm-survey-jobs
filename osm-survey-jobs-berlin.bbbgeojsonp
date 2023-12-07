@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3787941",
+               "52.5026878"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2023-12-07 04:29:42 UTC) - Zeichen ist wohl nicht entfernt worden, am Eingang vom Park gilt Radfahrverbot. wird angepasst sobald ich die Fotos auf Mapillary hochgeladen habe",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4014130"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3802855",
                "52.5136092"
             ],
