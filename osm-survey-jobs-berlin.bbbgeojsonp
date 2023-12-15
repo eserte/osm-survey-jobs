@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.39437",
+               "52.52827"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2023-12-14 19:10:37 UTC) - Dieser Abschnitt der Kleinen Hamburger Stra\u00dfe ist Fahrradstra\u00dfe geworden. Schilder stehen bereits, Fahrbahnmarkierungen wurden gemacht, nur die letzten Barrieren wurden noch nicht wegger\u00e4umt. Mapillary-Bild ist im Upload.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4028275"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3802855",
                "52.5136092"
             ],
