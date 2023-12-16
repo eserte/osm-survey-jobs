@@ -481,23 +481,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5239393",
-               "52.6045526"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2020-11-27 07:46:22 UTC) - Hier ist der Kreuzungsbereich etwas anders, Beide Richtungen sind separat und durch z.B. eine Mittelinsel getrennt. Man sieht es auf der Bingkarte und auch in den Mapillarybildern",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2442787"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3542",
                "52.5541"
             ],
