@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.42787",
-               "52.49148"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-12-20 21:48:27 UTC) - Hier wurde eine Diagonalsperre eingerichtet (Sperre ist in von Nordwesten nach S\u00fcdosten angeordnet). Mapillary-Bild wurde hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4035474"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.39437",
                "52.52827"
             ],
