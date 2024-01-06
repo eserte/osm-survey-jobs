@@ -5,40 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.43037",
-               "52.48785"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-01-04 18:12:59 UTC) - Neue Einbahnstra\u00dfenregelung, offen Richtung Westen, f\u00fcr Radfahrer frei. Mapillary-Bilder werden gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4053237"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4447819",
-               "52.4902462"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-01-04 18:11:37 UTC) - Es sieht so aus, als ob der TR4 umverlegt wurde. Neue Radroutenschilder stehen nun an der Einm\u00fcndung Lohm\u00fchlenstra\u00dfe/Karl-Kunger-Stra\u00dfe sowie Karl-Kunger-Stra\u00dfe/Bouch\u00e9stra\u00dfe. Allerdings wurden zumindest an der Kreuzung Bouch\u00e9stra\u00dfe Heidelberger Stra\u00dfe die ...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3390316"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3532381",
                "52.4920263"
             ],
