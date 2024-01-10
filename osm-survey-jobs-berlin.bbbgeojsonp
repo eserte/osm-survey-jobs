@@ -294,23 +294,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4775263",
-               "52.4846538"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2023-01-20 16:22:07 UTC) - Ich habe drei Skulpturen erg\u00e4nzt, aber eine m\u00fcsste noch fehlen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3515954"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4329668",
                "52.5386696"
             ],
