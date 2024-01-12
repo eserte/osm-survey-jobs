@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.32279",
+               "52.60378"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-01-11 22:07:50 UTC) - Ist da etwas neues entstanden? Bei den erw\u00e4hnten Mapillary-Bildern kann ich beim besten Willen keinen Radweg erkennen, h\u00f6chstens einen Trampelpfad erahnen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4010080"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3532381",
                "52.4920263"
             ],
