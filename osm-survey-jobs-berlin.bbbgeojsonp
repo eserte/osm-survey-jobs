@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.32279",
-               "52.60378"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-01-11 22:07:50 UTC) - Ist da etwas neues entstanden? Bei den erw\u00e4hnten Mapillary-Bildern kann ich beim besten Willen keinen Radweg erkennen, h\u00f6chstens einen Trampelpfad erahnen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4010080"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3532381",
                "52.4920263"
             ],
@@ -202,23 +185,6 @@ geoJsonResponse({
             "name" : "grafter (on 2023-08-15 14:31:57 UTC) - Ist \"track\" korrekt? Im Mapillary sieht es eher wie \"lane\" (mit Abstandspuffer) aus. siehe https://wiki.openstreetmap.org/wiki/Key:cycleway:buffer",
             "urls" : [
                "https://www.openstreetmap.org/note/3433349"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4383446",
-               "52.4948515"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2023-08-11 06:34:41 UTC) - Die Mapillary Bilder sind leider defekt und k\u00f6nnen nicht wiederhergestellt werden.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3792050"
             ]
          },
          "type" : "Feature"
