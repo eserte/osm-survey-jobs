@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5932797",
+               "52.4489709"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-01-27 13:07:55 UTC) - Weg unter der Br\u00fccke und zur Salvador-Allende-Stra\u00dfe/Wendenschlo\u00dfstra\u00dfe ist fertig und offen. Asphaltiert, beleuchtet. Mapillary-Bilder werden heute hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4088657"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3532381",
                "52.4920263"
             ],
