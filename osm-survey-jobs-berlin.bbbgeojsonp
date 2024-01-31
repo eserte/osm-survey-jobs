@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.38805",
+               "52.52516"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-01-31 04:00:22 UTC) - In dem Bereich habe ich nur einen Starbucks auf der s\u00fcdlichen Seite gesehen, der Rest ist wohl nicht f\u00fcr Ladengesch\u00e4fte vorgesehen. Ab dem Bogen nach Norden gibt es weitere Gesch\u00e4fte (teils noch im Ausbau). Ideal w\u00e4ren neue Fotos f\u00fcr Mapillary oder jemand ...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4058542"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3532381",
                "52.4920263"
             ],
