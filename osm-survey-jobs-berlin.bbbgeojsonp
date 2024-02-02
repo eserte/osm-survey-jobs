@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.44077",
+               "52.48344"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-02-01 21:31:46 UTC) - Baustelle ist nur zwischen Elbestra\u00dfe und Wildenbruchstra\u00dfe. Mapillary-Fotos wurden heute hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4090527"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.38805",
                "52.52516"
             ],
