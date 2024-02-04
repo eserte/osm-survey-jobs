@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.51108",
-               "52.53815"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-02-02 20:11:54 UTC) - Hier existiert zwischen Plauener Stra\u00dfe und Ferdinand-Schultze-Stra\u00dfe neue eine Service-Stra\u00dfe. Ein Mapillary-Foto wurde heute hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4097531"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.38805",
                "52.52516"
             ],
