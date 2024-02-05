@@ -5,6 +5,108 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.38958",
+               "52.52457"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-02-04 17:50:07 UTC) - Fotos von heute (04.02.2024) sind bald auf Mapillary verf\u00fcgbar",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4076516"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.38997",
+               "52.52519"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-02-04 17:50:02 UTC) - Fotos von heute (04.02.2024) sind bald auf Mapillary verf\u00fcgbar",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4058540"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.43702",
+               "52.50613"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-02-04 14:31:26 UTC) - Hier existiert ein Zugang (Treppe) zum Ufeweg. Mapillary-Bilder dazu werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4099754"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4366173",
+               "52.5063383"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-02-04 14:30:49 UTC) - Mapillary-Bilder dazu werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3996947"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3752537",
+               "52.5088295"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-02-04 14:25:53 UTC) - Die restliche Alte Potsdamer Stra\u00dfe ist mittlerweile fertig. Mapillary-Bilder werden gerade hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3363562"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.29563",
+               "52.4496"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-02-04 10:51:31 UTC) - Soweit ich weis fragt SC nicht nach unhewn, nur sett aber viellecht wurde da auch was ge\u00e4ndert?. Ist surface gesetzt wird nicht aktiv gefragt, gibt aber einige die das dennoch manuell \u00e4ndern. Wenn jemand z.b. das surface von sett auf paving_stone \u00e4ndert, w...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2220795"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.38805",
                "52.52516"
             ],
