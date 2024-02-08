@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.31668",
+               "52.48128"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-02-07 15:26:23 UTC) - Ist hier tats\u00e4chlich asphaltiert? Leider sind die GoPro-Bilder nicht scharf genug, aber es sieht eher nach Kleinsteinpflaster (also surface=sett) aus.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4103772"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.38958",
                "52.52457"
             ],
