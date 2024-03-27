@@ -209,23 +209,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4464073",
-               "52.4946637"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-09-22 19:26:10 UTC) - Mapillary-Fotos ben\u00f6tigt (Stichwort f\u00fcr osm-survey-jobs).",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3364418"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.5469848",
                "52.6312461"
             ],
