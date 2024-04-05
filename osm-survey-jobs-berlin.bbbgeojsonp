@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.6851132",
+               "52.5202816"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "berndw (on 2024-04-05 07:16:22 UTC) - Mapillary hat entsprechende Bilder",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4183086"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.22266",
                "52.53903"
             ],
