@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3061171",
+               "52.521961"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2024-04-05 12:48:48 UTC) - Leider auf Mapillary zu schwer zu erkennen. M\u00fcssten wir auf frischere Bilder in der Ecke oder neue Luftbilder oder jemand vor Ort warten.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4181265"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.6851132",
                "52.5202816"
             ],
