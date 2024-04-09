@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.53486",
+               "52.37111"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-04-08 21:43:38 UTC) - Die Existenz einer Route bedeutet nicht, dass man hier mit dem Fahrrad nicht fahren darf. Vielleicht gibt es mittlerweile ein Radfahren-verboten-Schild (oder etwas \u00c4quivalentes, z.B. ein Kfz-Stra\u00dfen-Schild), aber dann bitte vor Ort pr\u00fcfen! Die letzten Mapi...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3206269"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.22266",
                "52.53903"
             ],
@@ -406,23 +423,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2022-06-12 11:14:38 UTC) - Bin heute in dem Bereich einmal mit der 360\u00b0-Cam lang. ein paar Wege werde ich gleich bearbeiten, der Rest kann gemacht werden wenn die Fotos auf Mapillary verf\u00fcgbar sind. Was mir aufgefallen ist deckt sich mit den gesetzlichen Bestimmungen f\u00fcr Gesch\u00fctzte ...",
             "urls" : [
                "https://www.openstreetmap.org/note/3088778"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.53486",
-               "52.37111"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2022-06-02 05:07:51 UTC) - Ist ab hier tats\u00e4chlich f\u00fcr Radfahrer verboten? Bei Mapillary sind keine entsprechenden Schilder zu sehen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3206269"
             ]
          },
          "type" : "Feature"
