@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2492461",
+               "52.5521673"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-04-30 18:32:14 UTC) - Wie per Direktnachricht geantwortet, versuche ich hier mit dem User klnkengi eine plausible L\u00f6sung zu finden, obwohl die Beschilderung die aktuelle Situation darstellt. Die Fotos von mir sind direkt vom 28.04.2024 und wurden durch die App Mapillary gemacht...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3898096"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.6181993",
                "52.3731498"
             ],
