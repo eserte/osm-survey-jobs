@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.50219",
+               "52.39253"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-05-01 13:30:24 UTC) - War heute da, Fotos gerade im Upload. S\u00fcdspur nach Osten ist weiterhin VZ241, Nordspur zwischen Rudower Chaussee und Alfred-D\u00f6blin ist derzeit das Schild weg, der Rest ist alles weiter nutzungspflichtig beschildert. Die Frage ist nun, ob man dieses kurze S...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4144274"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.2492461",
                "52.5521673"
             ],
