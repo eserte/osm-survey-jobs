@@ -5,6 +5,57 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2492461",
+               "52.5521673"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "klnkengi (on 2024-05-02 17:18:50 UTC) - Ist die Frage denn inhaltlich gekl\u00e4rt?",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3898096"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.7177343",
+               "52.5119358"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-05-02 12:50:43 UTC) - Im Geoportal geh\u00f6rt das Grundst\u00fcck zur Usedomstra\u00dfe 9, Der Zugang ist aber von der Dar\u00dfstra\u00dfe (auch nach meinen Fotos auf Mapillary). Hier gilt wohl beides",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4214712"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.42175",
+               "52.53278"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2024-05-02 11:49:48 UTC) - \u2026 sondern was? Ideal w\u00e4ren ein paar Fotos von der Situation vor Ort, beispielsweise mit Mapillary (iOS, Android), die du dann hier verlinkst.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4224449"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.50219",
                "52.39253"
             ],
@@ -15,23 +66,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2024-05-01 13:30:24 UTC) - War heute da, Fotos gerade im Upload. S\u00fcdspur nach Osten ist weiterhin VZ241, Nordspur zwischen Rudower Chaussee und Alfred-D\u00f6blin ist derzeit das Schild weg, der Rest ist alles weiter nutzungspflichtig beschildert. Die Frage ist nun, ob man dieses kurze S...",
             "urls" : [
                "https://www.openstreetmap.org/note/4144274"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.2492461",
-               "52.5521673"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-04-30 18:32:14 UTC) - Wie per Direktnachricht geantwortet, versuche ich hier mit dem User klnkengi eine plausible L\u00f6sung zu finden, obwohl die Beschilderung die aktuelle Situation darstellt. Die Fotos von mir sind direkt vom 28.04.2024 und wurden durch die App Mapillary gemacht...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3898096"
             ]
          },
          "type" : "Feature"
