@@ -12,7 +12,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "klnkengi (on 2024-05-02 17:18:50 UTC) - Ist die Frage denn inhaltlich gekl\u00e4rt?",
+            "name" : "tordans (on 2024-05-04 06:59:57 UTC) - @StefanHRT @klnkengi: Ich denke, wir sollten warten, bis wir nochmal neue Mapillary Fotos haben, die die ge\u00f6ffnete Situation darstellen. Ich gehe davon aus, dass wir dann sehen werden, dass die Unterf\u00fchrung f\u00fcr den Radverkehr genutzt wird.",
             "urls" : [
                "https://www.openstreetmap.org/note/3898096"
             ]
