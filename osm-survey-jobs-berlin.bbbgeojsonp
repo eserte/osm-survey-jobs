@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4394228",
+               "52.5778234"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-05-14 04:57:27 UTC) - Wurde bei OSM bereits umbenannt, allerdings w\u00e4ren aktuelle Mapillary-Bilder als \"Beweis\" hilfreich.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4228679"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.2492461",
                "52.5521673"
             ],
