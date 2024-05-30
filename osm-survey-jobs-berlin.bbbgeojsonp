@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.2492461",
-               "52.5521673"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "klnkengi (on 2024-05-12 21:05:47 UTC) - Danke f\u00fcr die Mapillary-Bilder. Ich habe bei InfraVelo mal einen Hinweis hinterlassen. Vielleicht hilft es ja.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3898096"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.7177343",
                "52.5119358"
             ],
