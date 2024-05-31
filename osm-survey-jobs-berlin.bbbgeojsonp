@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.44077",
+               "52.48344"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2024-05-30 16:51:18 UTC) - Die Stra\u00dfe ist weitgehend freigegeben. Ich lade sp\u00e4ter qualitativ mittelm\u00e4\u00dfige Fotos auf Mapillary. Ich denke, wir k\u00f6nnen sie f\u00fcr den Radverkehr schon freigeben. F\u00fcr Kraftfahrzeuge noch nicht. Das Gegenst\u00fcck. Eine Kreuzung weiter ist allerdings jetzt gespe...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4090527"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4394228",
                "52.5778234"
             ],
