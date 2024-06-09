@@ -90,23 +90,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.6181993",
-               "52.3731498"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-04-29 15:32:21 UTC) - D\u00fcrfte der sein https://lottaklamotta.jimdosite.com/ Zudem scheint laut meinen damaligen Fotos auf Mapillary Der Schmuckladen und der Modeladen vertauscht zu sein.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3985758"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4089288",
                "52.5176947"
             ],
