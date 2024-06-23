@@ -192,23 +192,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.29563",
-               "52.4496"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-02-04 10:51:31 UTC) - Soweit ich weis fragt SC nicht nach unhewn, nur sett aber viellecht wurde da auch was ge\u00e4ndert?. Ist surface gesetzt wird nicht aktiv gefragt, gibt aber einige die das dennoch manuell \u00e4ndern. Wenn jemand z.b. das surface von sett auf paving_stone \u00e4ndert, w...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2220795"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.38805",
                "52.52516"
             ],
