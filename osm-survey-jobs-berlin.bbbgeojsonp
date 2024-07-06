@@ -5,16 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4143",
-               "52.5137"
+               "13.4154895",
+               "52.5132354"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "tordans (on 2024-06-28 14:31:58 UTC) - FYI ich habe in https://www.openstreetmap.org/changeset/153296654#map=17/52.51315/13.41185&layers=N anhand der Mapillary Fotos und Pl\u00e4ne noch Details erg\u00e4nzt. Aber ohne gute 360\u00b0 Fotos ist das aus der Ferne schwer. Ich vermute die erw\u00e4hnten Poller am \u00f6stli...",
+            "name" : "tordans (on 2024-07-06 02:13:24 UTC) - Ich habe die Baustelle jetzt anhand meiner letzten Mapillary Fotostrecke eingetragen. Sie l\u00e4uft noch bis 2028 laut Presse.",
             "urls" : [
-               "https://www.openstreetmap.org/note/4160352"
+               "https://www.openstreetmap.org/note/4211143"
             ]
          },
          "type" : "Feature"
