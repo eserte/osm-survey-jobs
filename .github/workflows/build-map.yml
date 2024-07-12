@@ -22,16 +22,16 @@ jobs:
       contents: write
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     - name: Checkout gh-pages branch
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         ref: gh-pages
         path: osm-survey-jobs-gh-pages
 
     - name: Checkout bbbike repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: eserte/bbbike
         path: src/bbbike
