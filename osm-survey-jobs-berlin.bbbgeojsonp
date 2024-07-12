@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.39437",
+               "52.52827"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2024-07-12 07:24:38 UTC) - Hier gibt es ein 360\u00b0 Video https://x.com/blumenrad/status/1810696146148360278",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4028275"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4154895",
                "52.5132354"
             ],
@@ -253,23 +270,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2023-12-27 15:24:42 UTC) - Hier gibt es mittlerweile eine Busspur auf einer l\u00e4ngeren Strecke (mindestens von Bernstorffstra\u00dfe bis Wittestra\u00dfe), keine Freigabe f\u00fcr Fahrr\u00e4der, diese m\u00fcssen den Radweg nutzen (Zeichen DE:237). Hatte leider keine GoPro bei",
             "urls" : [
                "https://www.openstreetmap.org/note/4042565"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.39437",
-               "52.52827"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2023-12-14 19:10:37 UTC) - Dieser Abschnitt der Kleinen Hamburger Stra\u00dfe ist Fahrradstra\u00dfe geworden. Schilder stehen bereits, Fahrbahnmarkierungen wurden gemacht, nur die letzten Barrieren wurden noch nicht wegger\u00e4umt. Mapillary-Bild ist im Upload.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4028275"
             ]
          },
          "type" : "Feature"
