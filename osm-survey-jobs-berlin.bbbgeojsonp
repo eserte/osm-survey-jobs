@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5486849",
-               "52.5035269"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-07-23 04:06:14 UTC) - Danke f\u00fcr die Erg\u00e4nzungen. Bzgl. Mapillary kann ich Dir nichts sagen, evtl. weis da jemand im Forum etwas? W\u00e4re auf alle F\u00e4lle dann gut zu wissen, damit man die Bilder auch entsprechend hochladen kann (sofern dies \u00e4hnlich Mapillary machbar ist)",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4304308"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.39437",
                "52.52827"
             ],
@@ -440,23 +423,6 @@ geoJsonResponse({
             "name" : "tordans (on 2023-06-25 04:30:13 UTC) - Leider gibt es hier kein Mapillary.",
             "urls" : [
                "https://www.openstreetmap.org/note/3749295"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.5342535",
-               "52.3830984"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-03-29 17:29:42 UTC) - meiner Meinung nach ist dort weiterhin Radfahrverbot. An den Nodes https://www.openstreetmap.org/node/1736492182 und https://www.openstreetmap.org/node/1701693976 gibt es aktuelle Fotos auf Mapillary mit dem Radfahrverbot (VZ 254) Richtung J\u00fcrgen-Schuhmann...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3507315"
             ]
          },
          "type" : "Feature"
