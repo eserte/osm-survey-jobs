@@ -5,16 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3851234",
-               "52.5178144"
+               "13.6633021",
+               "52.6653336"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "StefanHRT (on 2024-07-30 04:13:09 UTC) - 30.04.2024 War eben da, ist wie abgebildet. Der befahrbare Stra\u00dfenteil ist  wegen Baucontainern etc nicht beparkbar. Habe auch Fotos gemacht, kann die aber erst sp\u00e4ter auf Mapillary hochladen",
+            "name" : "StefanHRT (on 2024-07-31 03:39:40 UTC) - leider gibt es bzgl. der smoothness-Angaben immer wieder mal \"Diskussionen\" bei einigen Wegen, gerade zwischen intermediate und bad. Wenn ich mir meine Fotos auf Mapillary anschaue w\u00e4re mMn intermediate aber ok und die Stra\u00dfe ist so auch mit Rennrad befahr...",
             "urls" : [
-               "https://www.openstreetmap.org/note/3469300"
+               "https://www.openstreetmap.org/note/4157401"
             ]
          },
          "type" : "Feature"
