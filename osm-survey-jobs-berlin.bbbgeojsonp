@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.6226171",
+               "52.5992286"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-08-01 05:19:24 UTC) - Wie in der anderen Note erw\u00e4hnt, fahre ich das in den kommenden Tagen mal mit der Cam ab, dann gibt es Klarheit. Route ist schon auf dem Radcomputer gespeichert ;) gebe dann Bescheid wenn die Bilder auf Mapillary verf\u00fcgbar sind.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4360402"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.6633021",
                "52.6653336"
             ],
