@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.6611591",
+               "52.5991148"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-08-03 08:11:03 UTC) - Bilder sind im Upload. Am Anfang westlich ist nicht die gesamte Stra\u00dfe asphaltiert, nur ein Streifen. der \u00f6stliche Part ist offiziell noch nicht freigegeben (Baufahrzeuge frei). Aber da am westlichen Ende ein Schild ist, auf dem auch Landwirtschaft erw\u00e4hnt...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4325392"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.6226171",
                "52.5992286"
             ],
