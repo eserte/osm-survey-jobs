@@ -5,6 +5,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2765484",
+               "52.5865362"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Tiefflieger1863 (on 2024-08-15 19:20:46 UTC) - siehe auch Bilder in mapillary",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4385376"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5662752",
+               "52.5412863"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-08-15 13:06:46 UTC) - nur von S\u00fcden entsprechend beschildert und regelm\u00e4\u00dfig zugeparkt (Wie man auch auf Luftbildern und Mapillary-Fotos erkennt). F\u00fcr Radfahrer immer schwer da durchzukommen",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4364130"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.6633021",
                "52.6653336"
             ],
