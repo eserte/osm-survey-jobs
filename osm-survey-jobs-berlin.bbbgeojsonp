@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.7068174",
+               "52.47422"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-08-22 14:02:59 UTC) - Danke f\u00fcr die Info, w\u00e4re sch\u00f6n wenn es einen Trampelpfad weniger gibt, gibt schon zuviele die die Nat\u00fcrlichkeiten verschandeln ;) Wenn der Weg fertig ist, kann ich bei Gelegenheit neue Fotos mit der GoPro f\u00fcr Mapillary machen",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4384511"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.2765484",
                "52.5865362"
             ],
