@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.447231",
-               "52.47422"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-08-28 22:05:10 UTC) - Etwa hier ist ein modaler Filter entstanden. Mapillary-Bilder sind im Upload.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4408005"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.7068174",
                "52.47422"
             ],
