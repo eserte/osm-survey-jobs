@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3735894",
+               "52.4877379"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "thom_bike_bln (on 2024-09-02 12:50:56 UTC) - Ist hier wirklich eine Schranke? Auf Mapillary sieht es eher nach versenkbaren Pollern aus.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4415701"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.7068174",
                "52.47422"
             ],
@@ -508,23 +525,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2023-01-05 06:02:29 UTC) - ja der ist umz\u00e4unt ;) Mal sehen ob mal jemand aktuelle Fotos f\u00fcr Mapillary macht",
             "urls" : [
                "https://www.openstreetmap.org/note/3407313"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4101",
-               "52.3986"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "mardiz (on 2022-11-07 09:42:00 UTC) - Lt mapillary AltbauhochbordRW mit ca. 80 bis 100 cm Breite in beiden Richtungen",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2691741"
             ]
          },
          "type" : "Feature"
