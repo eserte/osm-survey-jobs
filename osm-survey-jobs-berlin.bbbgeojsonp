@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4479496",
+               "52.4823604"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2024-09-07 10:52:32 UTC) - Ich habe gerade ein paar Fotos hochgeladen auf Mapillary. Darauf sind alle bis auf ein Ger\u00e4t zu sehen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4421185"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5130253",
                "52.495766"
             ],
