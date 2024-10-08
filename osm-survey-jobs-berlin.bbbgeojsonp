@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5803246",
+               "52.5980821"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-10-07 14:51:59 UTC) - Das ist doch alles Bundespolizeigel\u00e4nde (incl. Ausbildungsst\u00e4tte). D\u00fcrfte auch mittels Mapillary erkennbar sein.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4456799"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5130253",
                "52.495766"
             ],
