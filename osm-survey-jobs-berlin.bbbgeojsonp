@@ -5,6 +5,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3775305",
+               "52.4672199"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-10-13 04:38:16 UTC) - Gem\u00e4\u00df ALKIS w\u00fcrde es soweit mit den Adressnodes passen, nach Mapillary l\u00e4sst sich dies nicht pr\u00fcfen da die Eing\u00e4nge von 75 und 74 im \"Innenhof\" sind. Die 76 ist einmal als Node und einmal auf dem Geb\u00e4ude hinterlegt, mMn reicht der Node f\u00fcr die Einheitlichk...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3067406"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3736643",
+               "52.4542524"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-10-13 04:15:06 UTC) - ist vermutlich f\u00fcr das Routing, laut Mapillary nicht f\u00fcr wheelchair geeignet und keine Markierungen da parkende Autos",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3923693"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.2765484",
                "52.5865362"
             ],
