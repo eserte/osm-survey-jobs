@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4089288",
+               "52.5176947"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-11-05 12:51:24 UTC) - ich glaube ja, jedenfalls passt es gut zu pers\u00f6nlicher Sichtung vor einer Weile und auch zu den zahlreichen Fotos auf Mapillary aus den letzten Monaten",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3823922"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4534857",
                "52.5265924"
             ],
@@ -270,23 +287,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2024-05-01 13:30:24 UTC) - War heute da, Fotos gerade im Upload. S\u00fcdspur nach Osten ist weiterhin VZ241, Nordspur zwischen Rudower Chaussee und Alfred-D\u00f6blin ist derzeit das Schild weg, der Rest ist alles weiter nutzungspflichtig beschildert. Die Frage ist nun, ob man dieses kurze S...",
             "urls" : [
                "https://www.openstreetmap.org/note/4144274"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4089288",
-               "52.5176947"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-04-28 09:54:16 UTC) - War heute da, habe ein paar Fotos f\u00fcr Mapillary hochgeladen und auch schon angepasst. Note lasse ich offen bis die Baustelle und der Rest Radweg final fertig sind.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3823922"
             ]
          },
          "type" : "Feature"
