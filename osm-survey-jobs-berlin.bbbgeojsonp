@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5456061",
+               "52.496055"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-11-09 13:57:43 UTC) - Nur der n\u00f6rdliche Teil ist ein track, der s\u00fcdliche h\u00f6chstens ein path oder so. Mapillary-Bilder dazu im Upload.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4513128"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4089288",
                "52.5176947"
             ],
