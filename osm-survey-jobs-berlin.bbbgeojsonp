@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.45332",
+               "52.52763"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2024-11-11 04:54:26 UTC) - Die Barriere ist gewandert (eben ge\u00e4ndert). Dieses Stra\u00dfenst\u00fcck ist dann zum parken nur f\u00fcr Jelbi/Miles. Ein paar Fotos liefere ich sp\u00e4ter, aber es w\u00e4re gut, wenn in ein paar Wochen mal 360\u00b0-Fotos folgen, dann d\u00fcrften auch die Lades\u00e4ulen f\u00fcr die berechtigt...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3990458"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5456061",
                "52.496055"
             ],
