@@ -73,23 +73,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3736643",
-               "52.4542524"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-10-13 04:15:06 UTC) - ist vermutlich f\u00fcr das Routing, laut Mapillary nicht f\u00fcr wheelchair geeignet und keine Markierungen da parkende Autos",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3923693"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.2765484",
                "52.5865362"
             ],
