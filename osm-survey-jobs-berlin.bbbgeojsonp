@@ -583,23 +583,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.430049",
-               "52.4827662"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2022-02-11 08:53:52 UTC) - Park und Spielplatz ist seit gestern er\u00f6ffnet. Erstes Update in https://www.openstreetmap.org/changeset/117278088. Mapillary Fotos vom Gel\u00e4nde laden hoch. Ist aber noch sehr grob gemappt. Ich schlage vor, die Note offen zu lassen als Reminder, hier genauer...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3033236"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.6121679",
                "52.3393854"
             ],
