@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4586275",
+               "52.5759001"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "\u0418\u0432\u0430\u0301\u043d \u0412\u0430\u0441\u0438\u0301\u043b\u044c\u0435\u0432\u0438\u0447 (on 2024-12-01 17:09:24 UTC) - laut https://www.kleingaertner-weissensee.de/Dokumente/Dokumente/heft_24.pdf gibt es eine Hauffallee mit Hauffplatz und Froschk\u00f6nigweg.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3532755"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5456061",
                "52.496055"
             ],
