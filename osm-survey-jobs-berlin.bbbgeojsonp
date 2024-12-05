@@ -549,23 +549,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3050871",
-               "52.6310313"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "mardiz (on 2022-04-01 15:51:26 UTC) - Kann es sein, da\u00df nur einzelne Kurse dort langfahren  [Sch\u00fclerverkehr, Morgen-oder Abendverkehr)    Auf mapillary ist sogar ein Bus 806 zu sehen (mtek 14.1.21)    seltsam....",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2805017"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.6121679",
                "52.3393854"
             ],
