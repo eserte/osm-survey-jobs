@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5339198",
+               "52.5388295"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-12-08 15:40:06 UTC) - Unterf\u00fchrung ist zurzeit gesperrt. Mapillary-Bilder dazu sind im Upload.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4547152"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.2265466",
                "52.4210034"
             ],
