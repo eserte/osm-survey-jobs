@@ -651,23 +651,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3542",
-               "52.5541"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2020-09-05 16:38:15 UTC) - In der Ungarnstra\u00dfe gibt es Radwege (Details bei Mapillary oder BBBike).",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2336666"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3520901",
                "52.5875367"
             ],
