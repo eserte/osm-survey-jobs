@@ -5,33 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4002564",
-               "52.5119336"
+               "13.3582615",
+               "52.4781461"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "eserte (on 2024-12-17 22:47:42 UTC) - Anhand von Mapillary-Bildern sieht es so aus, als ob das Schild zwischen April und Mai 2024 abgebaut wurde.",
+            "name" : "tordans (on 2024-12-18 13:12:31 UTC) - Der Spielplatz ist wohl jetzt er\u00f6ffnet https://leute.tagesspiegel.de/tempelhof-schoeneberg/events/2024/12/17/390470/spielplatz-eroeffnung-schoeneberger-linse",
             "urls" : [
-               "https://www.openstreetmap.org/note/4139556"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4068072",
-               "52.5155892"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-12-17 22:23:40 UTC) - Hier ist die Gegenstelle zu https://www.openstreetmap.org/note/4545425",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4555181"
+               "https://www.openstreetmap.org/note/4555933"
             ]
          },
          "type" : "Feature"
