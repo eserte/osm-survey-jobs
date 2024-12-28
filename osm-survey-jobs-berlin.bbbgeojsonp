@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5150933",
-               "52.4223659"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-12-21 11:15:52 UTC) - Hab' leider nicht genau darauf geachtet, nur nachtr\u00e4glich auf den Mapillary-Bildern gesehen... bei BBBike habe ich einfach den jeweiligen Abschnitt bis zur n\u00e4chsten Kreuzung/Einm\u00fcndung eingetragen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3852666"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3582615",
                "52.4781461"
             ],
