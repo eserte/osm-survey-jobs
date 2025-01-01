@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.37357",
+               "52.50211"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2025-01-01 11:52:45 UTC) - Mapillary-Fotos w\u00e4ren hilfreich (ich habe mir eine Notiz gemacht).",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2171729"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.36735",
                "52.5286"
             ],
