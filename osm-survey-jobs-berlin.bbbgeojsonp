@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.36735",
-               "52.5286"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2024-12-25 20:28:37 UTC) - Laut https://gruen-berlin.de/pressemitteilung/doeberitzer-gruenzug-neuer-freiraum-am-hauptbahnhof-eroeffnet ist die Fl\u00e4che er\u00f6ffnet. ",
-            "urls" : [
-               "https://www.openstreetmap.org/note/2683361"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3582615",
                "52.4781461"
             ],
@@ -90,40 +73,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4586275",
-               "52.5759001"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "\u0418\u0432\u0430\u0301\u043d \u0412\u0430\u0441\u0438\u0301\u043b\u044c\u0435\u0432\u0438\u0447 (on 2024-12-01 17:09:24 UTC) - laut https://www.kleingaertner-weissensee.de/Dokumente/Dokumente/heft_24.pdf gibt es eine Hauffallee mit Hauffplatz und Froschk\u00f6nigweg.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3532755"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.5456061",
-               "52.496055"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-11-09 13:57:43 UTC) - Nur der n\u00f6rdliche Teil ist ein track, der s\u00fcdliche h\u00f6chstens ein path oder so. Mapillary-Bilder dazu im Upload.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4513128"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4089288",
                "52.5176947"
             ],
@@ -134,23 +83,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2024-11-05 12:51:24 UTC) - ich glaube ja, jedenfalls passt es gut zu pers\u00f6nlicher Sichtung vor einer Weile und auch zu den zahlreichen Fotos auf Mapillary aus den letzten Monaten",
             "urls" : [
                "https://www.openstreetmap.org/note/3823922"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4534857",
-               "52.5265924"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-10-29 17:26:14 UTC) - Die Fl\u00e4che wird schon l\u00e4nger aktiv von einer Autovermietung (Arndt) genutzt (siehe Mapillary)",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4499628"
             ]
          },
          "type" : "Feature"
