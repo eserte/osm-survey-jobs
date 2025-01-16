@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.282899",
+               "52.6225911"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "p*b (on 2025-01-15 10:09:12 UTC) - Laut Berliner Forsten auf berlin.de ist das Gebiet kleiner, so wie auf dem mapillary-Bild zu sehen. ",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3817670"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.37357",
                "52.50211"
             ],
