@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.419977",
+               "52.544164"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<anonymous> (on 2025-02-07 15:38:03 UTC) - Lololand, ist hier korrekt mit der Hausnummer 15 getaggt, wie im Impressum des Ladens, liegt jedoch auf der HN 31. Mapillary und gmaps geben in der Stra\u00dfe nichts her, kann ich gerade nicht selber pr\u00fcfen. Lololand umgezogen oder POI am falschen Platz?",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4618416"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3671615",
                "52.5333918"
             ],
