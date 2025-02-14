@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.1917745",
+               "52.5405033"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2025-02-14 02:48:42 UTC) - Hallo mardiz, Danke f\u00fcr Deine Einsch\u00e4tzung. Dann sollte hier ein Access gesetzt werden? Mir ging es bei dem Tor eher um die Zufahrt auf das Schulgel\u00e4nde. Dort ist mMn auch ein Tor oder eine Schranke? Komme da leider zu selten hin und Fotos gibt es nicht au...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4124299"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.419977",
                "52.544164"
             ],
@@ -270,6 +287,23 @@ geoJsonResponse({
             "name" : "eserte (on 2024-06-12 19:05:25 UTC) - Gibt es hier tats\u00e4chlich eine Einbahnstra\u00dfenregelung? Auf Mapillary-Bildern sehe ich nichts dergleichen.",
             "urls" : [
                "https://www.openstreetmap.org/note/4289245"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4394228",
+               "52.5778234"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2024-05-14 04:57:27 UTC) - Wurde bei OSM bereits umbenannt, allerdings w\u00e4ren aktuelle Mapillary-Bilder als \"Beweis\" hilfreich.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4228679"
             ]
          },
          "type" : "Feature"
