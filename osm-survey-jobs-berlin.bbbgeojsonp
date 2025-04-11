@@ -5,6 +5,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4349543",
+               "52.4712693"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2025-04-10 16:09:24 UTC) - Es gibt jetzt neue Poller. Fotos hier https://berlin.social/@berlin_radler/114307363956508513 und auf Mapillary (sehr bald)",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4269753"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4542753",
+               "52.4741373"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2025-04-10 10:10:22 UTC) - Die B\u00e4ume in dieser Stra\u00dfe sind wieder neu gepflanzt worden. Ich habe gerade Fotos auf Mapillary hochgeladen. Sie haben auch alle noch Schilder mit dem Baum Namen, den man noch eintragen k\u00f6nnte\u2026 (vor Ort)",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4703886"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.1917745",
                "52.5405033"
             ],
