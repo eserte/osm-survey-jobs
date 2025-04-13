@@ -328,23 +328,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.50219",
-               "52.39253"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-05-01 13:30:24 UTC) - War heute da, Fotos gerade im Upload. S\u00fcdspur nach Osten ist weiterhin VZ241, Nordspur zwischen Rudower Chaussee und Alfred-D\u00f6blin ist derzeit das Schild weg, der Rest ist alles weiter nutzungspflichtig beschildert. Die Frage ist nun, ob man dieses kurze S...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4144274"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.53486",
                "52.37111"
             ],
@@ -542,23 +525,6 @@ geoJsonResponse({
             "name" : "tordans (on 2023-06-25 04:30:13 UTC) - Leider gibt es hier kein Mapillary.",
             "urls" : [
                "https://www.openstreetmap.org/note/3749295"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.5281296",
-               "52.384853"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2023-03-29 17:25:23 UTC) - Aktuelle Fotos vom 26.03.2023 sind auf Mapillary. Neue Kreuzung und Wegef\u00fchrung so gut es ging eingetragen, auch die neuen Bushaltestellen sind vorbereitet. Bei Google Earth kann man analog meiner Fotos was sehen",
-            "urls" : [
-               "https://www.openstreetmap.org/note/3220959"
             ]
          },
          "type" : "Feature"
