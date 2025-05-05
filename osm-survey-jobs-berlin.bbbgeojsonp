@@ -107,23 +107,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4857634",
-               "52.396231"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2025-01-26 17:43:56 UTC) - https://www.openstreetmap.org/node/2235207185 scheint nicht (mehr?) zu existieren, zumindest wenn man sich neuere Mapillary-Bilder anschaut.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4603019"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3582615",
                "52.4781461"
             ],
