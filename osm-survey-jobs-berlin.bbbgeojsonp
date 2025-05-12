@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.6982749",
+               "52.5354147"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2025-05-11 11:27:52 UTC) - Auf dem Gel\u00e4nde ist auch ALDI hin umgezogen. Fotos von heute, 11.05.2025, auf Mapillary verf\u00fcgbar. Habe schon einige Anpassungen vorgenommen, aber sowas wie \u00d6ffnungszeiten etc. fehlen noch. Die Ladestation ist nicht nicht fertig, aber schon unter https://c...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4555492"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.49415",
                "52.48193"
             ],
