@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4431565",
-               "52.4717399"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-05-26 05:05:56 UTC) - E-Lade-Standort; Siehe Mapillary",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4775615"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4349918",
                "52.4704164"
             ],
@@ -56,23 +39,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4321165",
-               "52.4701517"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-05-26 05:03:17 UTC) - e-lade Standorte; Siehe Mapillary",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4775612"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4355175",
                "52.4690733"
             ],
@@ -83,57 +49,6 @@ geoJsonResponse({
             "name" : "tordans (on 2025-05-26 05:02:36 UTC) - Fahrradst\u00e4nder auch an den anderen Kreuzungs-Punkten; siehe Mapillary",
             "urls" : [
                "https://www.openstreetmap.org/note/4775611"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4371296",
-               "52.46924"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-05-26 05:01:36 UTC) - e-lade Stellpl\u00e4tze; siehe Mapillary.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4775610"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4407344",
-               "52.4806354"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-05-26 05:00:25 UTC) - BSR Rampe. Siehe Mapillary.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4775609"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4069172",
-               "52.4897415"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-05-26 04:58:12 UTC) - Gehweg\u00fcbergang wurde mit Pollern gesch\u00fctzt. Siehe Mapillary.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4775607"
             ]
          },
          "type" : "Feature"
