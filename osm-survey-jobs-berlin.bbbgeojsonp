@@ -22,40 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4349918",
-               "52.4704164"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-05-26 05:04:35 UTC) - Mehr Fahrradst\u00e4nder gebaut; siehe Mapillary",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4775614"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4355175",
-               "52.4690733"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-05-26 05:02:36 UTC) - Fahrradst\u00e4nder auch an den anderen Kreuzungs-Punkten; siehe Mapillary",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4775611"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.6982749",
                "52.5354147"
             ],
@@ -83,23 +49,6 @@ geoJsonResponse({
             "name" : "Berlin53 (on 2025-04-29 09:54:12 UTC) - Ich gehe mal davon aus, dass die entsprechenden Grenzen von Spreepark und dem angrenzenden Wald von dem Zaun gebildet werden. Habe diese nach Luftbild und Mapillary (und eigener Anschauung) verschoben und den Zaun an der alten Lagerhalle unterbrochen. Wenn...",
             "urls" : [
                "https://www.openstreetmap.org/note/3705935"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4349543",
-               "52.4712693"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2025-04-10 16:09:24 UTC) - Es gibt jetzt neue Poller. Fotos hier https://berlin.social/@berlin_radler/114307363956508513 und auf Mapillary (sehr bald)",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4269753"
             ]
          },
          "type" : "Feature"
