@@ -5,6 +5,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4706438",
+               "52.4648967"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2025-06-06 07:17:06 UTC) - Fotos Mapillary sind hochgeladen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4782905"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.468498",
+               "52.4743769"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "tordans (on 2025-06-06 07:16:52 UTC) - Der neue Platz ist hier https://www.openstreetmap.org/way/1392527211 Mapillary Bilder sind gerade hochgeladen f\u00fcr Detail-Mapping. Auch bei dem Haus am Rosenweg kann man noch ein paar Details eintragen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4791370"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4663549",
                "52.5048771"
             ],
