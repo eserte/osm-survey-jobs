@@ -141,23 +141,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3671615",
-               "52.5333918"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "grafter (on 2025-01-30 12:31:15 UTC) - In den Mapillary Bildern sieht man recht deutlich, dass die Promenade noch immer gesperrt ist. DAs hatte ich auch vor einigen Wochen eingetragen. ICh bin etwas irritiert, dass das jetzt schon wieder als begehbar eingetragen wurde. Ich f\u00e4nde es doch wichtig...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4564110"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3582615",
                "52.4781461"
             ],
