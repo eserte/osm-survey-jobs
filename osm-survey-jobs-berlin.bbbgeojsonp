@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.209713",
+               "52.556694"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "p*b (on 2025-06-11 08:33:21 UTC) - Danke! Ich habe mal Wege, Spielpl\u00e4tze und Fahrradparkpl\u00e4tze so gut wie m\u00f6glich anhand deiner Mapillary-Bilder und Luftbildern eingetragen. Das muss aber noch ggfs. etwas nachkorrigiert und erg\u00e4nzt werden.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4713629"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4706438",
                "52.4648967"
             ],
