@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3167607",
-               "52.5287963"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "fmc_3 (on 2025-07-03 09:28:40 UTC) - Auf dem Luftbild ist zu sehen, dass dieser Parkplatz mit einer wei\u00dfen Markierung abgetrennt ist. M\u00f6glicherweise ist das ein reservierter Parkplatz (E-Lade-Parkplatz, \u00f6ffentlicher Behindertenparkplatz, oder ein Behindertenparkplatz mit individuellem Parkaus...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4837135"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4466809",
                "52.474305"
             ],
