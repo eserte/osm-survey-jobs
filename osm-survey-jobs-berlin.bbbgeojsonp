@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3203309",
+               "52.5071233"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "fmc_3 (on 2025-08-11 17:01:26 UTC) - Auf dem Luftbild ist zu sehen, dass dieser Parkplatz mit einer wei\u00dfen Markierung abgetrennt ist. M\u00f6glicherweise ist das ein reservierter Parkplatz (\u00f6ffentlicher Behindertenparkplatz oder ein Behindertenparkplatz mit individuellem Parkausweis). Aktuelle Map...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4904779"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.1196722",
                "52.3572395"
             ],
