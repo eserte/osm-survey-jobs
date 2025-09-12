@@ -243,23 +243,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.2265466",
-               "52.4210034"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "mardiz (on 2024-12-07 00:10:07 UTC) - Es sind keine echten Einbahnstra\u00dfen, es gibt nur Einfahrt-verboten-Schilder, zumindest sind in mapillary nur solche zu sehen",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4318353"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4089288",
                "52.5176947"
             ],
