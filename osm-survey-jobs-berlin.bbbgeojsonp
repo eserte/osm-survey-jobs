@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.409911",
+               "52.575592"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2025-10-05 12:31:17 UTC) - Laut aktuellen Mapillary-Bildern wurde hier frisch asphaltiert.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4991873"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3756925",
                "52.510735"
             ],
