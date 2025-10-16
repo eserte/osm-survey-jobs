@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.401518",
-               "52.500862"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Emil1887 (on 2025-10-07 18:26:25 UTC) - Bin von Richtung S\u00fcden gefahren. Da ist sogar bis Gitschiner Stra\u00dfe ausgeschildert. In Mapillary vom 20.09. fehlen die Richtung Norden aber tats\u00e4chlich.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4559018"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.42213",
                "52.50717"
             ],
