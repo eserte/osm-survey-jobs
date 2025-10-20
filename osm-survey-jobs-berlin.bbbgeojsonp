@@ -5,16 +5,16 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.42213",
-               "52.50717"
+               "13.4492227",
+               "52.4964761"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "Emil1887 (on 2025-10-07 08:51:34 UTC) - Ist laut Mapillary vom 1.10. ausgeschildert.",
+            "name" : "tordans (on 2025-10-20 05:25:22 UTC) - Danke!",
             "urls" : [
-               "https://www.openstreetmap.org/note/3954739"
+               "https://www.openstreetmap.org/note/4716248"
             ]
          },
          "type" : "Feature"
