@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.56273",
+               "52.51214"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2025-11-01 07:51:09 UTC) - Laut Schild ein Wartungsweg, Betreten verboten mapillary.com/app/?lat=52.511338137092025&lng=13.562347240909958&z=19.566645204349406&menu=false&mapStyle=OpenStreetMap&dateFrom=2025-01-01&focus=photo&pKey=720618534403012&x=0.5084749798387544&y=0.49262087018...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3677260"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.409911",
                "52.575592"
             ],
