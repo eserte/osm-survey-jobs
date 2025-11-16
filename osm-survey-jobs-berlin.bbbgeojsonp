@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2691884",
+               "52.4339092"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "deret (on 2025-11-15 19:18:17 UTC) - fl\u00e4che links vermutlich auch teil des geb\u00e4udes, vgl mapillary-panormas",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5054554"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.56273",
                "52.51214"
             ],
