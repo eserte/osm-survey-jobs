@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.517974",
+               "52.3649349"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "christian_plus1 (on 2025-11-30 20:36:58 UTC) - Den aktuellsten Mapillaryfotos zufolge scheint diese Fu\u00df- und Radwegquerung abgebaut und durch die neue Ampelquerung n\u00f6rdlich ersetzt worden zu sein. Auf den Stra\u00dfenfotos ist das jedoch nicht eindeutig zu erkennen und sollte nochmal vor Ort gepr\u00fcft werden....",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5074320"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5427529",
                "52.4361487"
             ],
