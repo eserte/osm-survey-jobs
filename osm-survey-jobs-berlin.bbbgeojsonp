@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4531879",
+               "52.5032689"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2026-01-14 16:24:25 UTC) - Die Verkehrsf\u00fchrung wurde mittlerweile umgestellt: Lehmbruckstra\u00dfe ist wieder offen, und es gibt eine Einbahnstra\u00dfenregelung in den Stra\u00dfen Am Rudolfplatz und Rotherstra\u00dfe (zwischen Modersohnstra\u00dfe und Lehmbruckstra\u00dfe, offen RIchtung Westen).",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4924394"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.517974",
                "52.3649349"
             ],
