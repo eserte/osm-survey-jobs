@@ -39,23 +39,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5427529",
-               "52.4361487"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "fmc_3 (on 2025-11-24 19:56:26 UTC) - Die Zeiten wann hier am Samstag (und Sonntag?) mit Parkscheibe geparkt werden muss, konnte ich leider nicht auf den vorhanden mapillary-Aufnahmen entziffern.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/5066675"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.2691884",
                "52.4339092"
             ],
