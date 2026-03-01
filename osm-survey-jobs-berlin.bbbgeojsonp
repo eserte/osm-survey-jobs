@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5764034",
+               "52.4235698"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "PizzaTreeIsland (on 2026-02-28 21:09:39 UTC) - Ich habe in Changeset 179187385 access=private gesetzt. Die Schranke konnte ich aber weder im Luftbild noch auf Fotos von Mapillary erkennen, deshalb konnte ich sie nicht hinzuf\u00fcgen. Bitte vor Ort schauen und ggf. an der richtigen Position nachtragen",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4864171"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4531879",
                "52.5032689"
             ],
