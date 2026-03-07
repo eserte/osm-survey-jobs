@@ -22,23 +22,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5209406",
-               "52.4819879"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "Gnurpsnewoel (on 2026-03-01 19:58:42 UTC) - M\u00fclleimer \u00fcberpr\u00fcfen, Microtagging auf der Gr\u00fcnfl\u00e4che pr\u00fcfen. Keine aktuelle Bilder auf Mapillary / Bilder nicht vorhanden.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/5186811"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.5764034",
                "52.4235698"
             ],
