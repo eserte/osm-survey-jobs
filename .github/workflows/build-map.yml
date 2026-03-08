@@ -11,9 +11,6 @@ on:
           - hamburg
           - leipzig
         default: berlin
-      limit:
-        type: integer
-        default: 1000
 
   schedule:
     - cron: '0 8 * * *'
@@ -39,6 +36,9 @@ jobs:
         repository: eserte/bbbike
         path: src/bbbike
 
+    - name: Install dependencies
+      run: sudo apt-get install -y libio-socket-ssl-perl
+
     - name: Determine area and bbox
       run: |
         if [ "${{ inputs.areaname }}" = "" ]
@@ -57,11 +57,9 @@ jobs:
         echo "AREABBOX=$areabbox" >> $GITHUB_ENV
 
     - name: Create osm-survey-jobs-*.bbbgeojsonp
-      env:
-        LIMIT: ${{ inputs.limit || 1000 }}
       run: |
         set -ex
-        wget 'https://api.openstreetmap.org/api/0.6/notes.json?bbox='$AREABBOX'&limit='$LIMIT'&closed=0' -O /tmp/notes-$AREANAME.json
+        perl fetch-osm-notes.pl $AREABBOX /tmp/notes-$AREANAME.json
         ./find-osm-survey-jobs.pl /tmp/notes-$AREANAME.json > /tmp/osm-survey-jobs-$AREANAME.bbd
         PERL5LIB=$(pwd)/lib $GITHUB_WORKSPACE/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp -manipulatemodule GeoJSONFeatProps /tmp/osm-survey-jobs-$AREANAME.bbd > $GITHUB_WORKSPACE/osm-survey-jobs-gh-pages/osm-survey-jobs-$AREANAME.bbbgeojsonp
 
