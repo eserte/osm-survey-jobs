@@ -311,23 +311,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.3582615",
-               "52.4781461"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "tordans (on 2024-12-18 13:12:31 UTC) - Der Spielplatz ist wohl jetzt er\u00f6ffnet https://leute.tagesspiegel.de/tempelhof-schoeneberg/events/2024/12/17/390470/spielplatz-eroeffnung-schoeneberger-linse",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4555933"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4089288",
                "52.5176947"
             ],
