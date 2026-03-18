@@ -31,8 +31,8 @@ jobs:
           echo "PAGES_PUSH_BRANCH=gh-pages" >> $GITHUB_ENV
           echo "PAGES_FORCE=" >> $GITHUB_ENV
         else
-          echo "PAGES_CHECKOUT_REF=gh-branch" >> $GITHUB_ENV
-          echo "PAGES_PUSH_BRANCH=gh-branch-test" >> $GITHUB_ENV
+          echo "PAGES_CHECKOUT_REF=gh-pages" >> $GITHUB_ENV
+          echo "PAGES_PUSH_BRANCH=gh-pages-test" >> $GITHUB_ENV
           echo "PAGES_FORCE=--force" >> $GITHUB_ENV
         fi
 
