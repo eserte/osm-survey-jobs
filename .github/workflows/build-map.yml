@@ -27,11 +27,9 @@ jobs:
     - name: Set pages branch variables
       run: |
         if [ "${{ github.ref }}" = "refs/heads/master" ]; then
-          echo "PAGES_CHECKOUT_REF=gh-pages" >> $GITHUB_ENV
           echo "PAGES_PUSH_BRANCH=gh-pages" >> $GITHUB_ENV
           echo "PAGES_FORCE=" >> $GITHUB_ENV
         else
-          echo "PAGES_CHECKOUT_REF=gh-pages" >> $GITHUB_ENV
           echo "PAGES_PUSH_BRANCH=gh-pages-test" >> $GITHUB_ENV
           echo "PAGES_FORCE=--force" >> $GITHUB_ENV
         fi
@@ -39,7 +37,7 @@ jobs:
     - name: Checkout gh-pages branch
       uses: actions/checkout@v6
       with:
-        ref: ${{ env.PAGES_CHECKOUT_REF }}
+        ref: gh-pages
         path: osm-survey-jobs-gh-pages
 
     - name: Checkout bbbike repository
