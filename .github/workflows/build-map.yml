@@ -24,10 +24,22 @@ jobs:
     steps:
     - uses: actions/checkout@v6
 
+    - name: Set pages branch variables
+      run: |
+        if [ "${{ github.ref }}" = "refs/heads/master" ]; then
+          echo "PAGES_CHECKOUT_REF=gh-pages" >> $GITHUB_ENV
+          echo "PAGES_PUSH_BRANCH=gh-pages" >> $GITHUB_ENV
+          echo "PAGES_FORCE=" >> $GITHUB_ENV
+        else
+          echo "PAGES_CHECKOUT_REF=gh-branch" >> $GITHUB_ENV
+          echo "PAGES_PUSH_BRANCH=gh-branch-test" >> $GITHUB_ENV
+          echo "PAGES_FORCE=--force" >> $GITHUB_ENV
+        fi
+
     - name: Checkout gh-pages branch
       uses: actions/checkout@v6
       with:
-        ref: gh-pages
+        ref: ${{ env.PAGES_CHECKOUT_REF }}
         path: osm-survey-jobs-gh-pages
 
     - name: Checkout bbbike repository
@@ -71,4 +83,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add osm-survey-jobs-$AREANAME.bbbgeojsonp
         git commit -m "automatic osm-survey-jobs-$AREANAME.bbbgeojsonp update" && \
-          git push origin gh-pages || true
+          git push $PAGES_FORCE origin HEAD:$PAGES_PUSH_BRANCH || true
