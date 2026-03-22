@@ -158,23 +158,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5897294",
-               "52.5957119"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2025-06-23 10:00:01 UTC) - Da ist ein Trampelpfad, der leider auch vereinzelt mal beim Fahrradrouting einbezogen wird. Auf Mapillary gibt es Fotos wie man das Fahrrad dort handeln muss. ",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4553780"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4706438",
                "52.4648967"
             ],
