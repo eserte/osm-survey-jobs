@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.7446797",
+               "52.4996588"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2026-04-05 08:19:36 UTC) - mapillary.com/app/user/stefanhrt?lat=52.499678405081994&lng=13.744074628353019&z=17&menu=false&mapStyle=OpenStreetMap&dateFrom=2025-01-01&focus=photo&pKey=3087377691467257",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4200572"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5764034",
                "52.4235698"
             ],
