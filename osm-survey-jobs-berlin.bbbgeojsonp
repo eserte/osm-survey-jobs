@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4000668",
+               "52.5489299"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "thom_bike_bln (on 2026-04-06 16:16:20 UTC) - Der Spielplatz ist fertig. Am Luftbild erkennt man dass einiges aktualisiert werden muss. Geht wohl am besten mit 360\u00b0-Bildern oder vor Ort.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/4509843"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.7446797",
                "52.4996588"
             ],
