@@ -5,6 +5,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5795843",
+               "52.5398626"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "StefanHRT (on 2026-04-11 08:14:59 UTC) - gewisse Dinge sind noch nicht final, gerade \u00f6stlich der Br\u00fccken. Fotos ab mapillary.com/app/user/stefanhrt?lat=52.539841484324&lng=13.57966939781295&z=17&menu=false&mapStyle=OpenStreetMap&dateFrom=2025-01-01&focus=photo&pKey=1711941269791031",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3581028"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.5407556",
+               "52.4139596"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "HonestPixel638 (on 2026-04-10 20:37:47 UTC) - Der gepflasterte Teil des Widosteigs scheint laut mapillary und street view hier zu enden. Falls das immer noch so ist k\u00f6nnte man den Widosteig hier teilen und alles danach als dirt markieren, oder?",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5244347"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4000668",
                "52.5489299"
             ],
