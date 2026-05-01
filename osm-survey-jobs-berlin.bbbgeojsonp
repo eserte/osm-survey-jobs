@@ -73,23 +73,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.5764034",
-               "52.4235698"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "PizzaTreeIsland (on 2026-02-28 21:09:39 UTC) - Ich habe in Changeset 179187385 access=private gesetzt. Die Schranke konnte ich aber weder im Luftbild noch auf Fotos von Mapillary erkennen, deshalb konnte ich sie nicht hinzuf\u00fcgen. Bitte vor Ort schauen und ggf. an der richtigen Position nachtragen",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4864171"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.4531879",
                "52.5032689"
             ],
@@ -355,23 +338,6 @@ geoJsonResponse({
             "name" : "StefanHRT (on 2024-08-15 13:06:46 UTC) - nur von S\u00fcden entsprechend beschildert und regelm\u00e4\u00dfig zugeparkt (Wie man auch auf Luftbildern und Mapillary-Fotos erkennt). F\u00fcr Radfahrer immer schwer da durchzukommen",
             "urls" : [
                "https://www.openstreetmap.org/note/4364130"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.6633021",
-               "52.6653336"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "StefanHRT (on 2024-07-31 03:39:40 UTC) - leider gibt es bzgl. der smoothness-Angaben immer wieder mal \"Diskussionen\" bei einigen Wegen, gerade zwischen intermediate und bad. Wenn ich mir meine Fotos auf Mapillary anschaue w\u00e4re mMn intermediate aber ok und die Stra\u00dfe ist so auch mit Rennrad befahr...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4157401"
             ]
          },
          "type" : "Feature"
