@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5159516",
+               "52.4835545"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2026-05-21 05:06:19 UTC) - \u00d6stliche Stra\u00dfenseite wird asphaltiert sein, die westliche weiterhin Kopfsteinpflaster haben, evtl. nur im Parkbereich. Die Mapillary-Sequenz dazu ist leider fehlgeschlagen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5286405"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5795843",
                "52.5398626"
             ],
