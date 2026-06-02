@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3264562",
+               "52.5325972"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2026-06-01 20:43:04 UTC) - Das verlinkte Mapillary-Bild in der Originalnotiz spricht eindeutig f\u00fcr einen Zebrastreifen.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5185087"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.626062",
                "52.444841"
             ],
