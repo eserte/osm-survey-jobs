@@ -5,23 +5,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.534177",
-               "52.538255"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2026-06-03 11:44:55 UTC) - Aktuell wird dieser Abschnitt der Frank-Schweitzer-Stra\u00dfe zur\u00fcckgebaut (vermutlich). Mapillary-Bilder dazu werden gerade hochgeladen.",
-            "urls" : [
-               "https://www.openstreetmap.org/note/5324624"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.3264562",
                "52.5325972"
             ],
