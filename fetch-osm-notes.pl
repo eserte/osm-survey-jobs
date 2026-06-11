@@ -11,15 +11,20 @@
 
 use strict;
 use warnings;
+use Getopt::Long;
 use HTTP::Tiny;
 use JSON::PP qw(decode_json encode_json);
-
-my $bbox        = shift // die "Usage: $0 <bbox> [output_file]\n";
-my $output_file = shift // '-';
 
 my $base_url     = 'https://api.openstreetmap.org/api/0.6/notes/search.json';
 my $limit        = 1000;   # per-page fetch limit
 my $max_features = 10_000; # overall cap for merged results (0 = no limit)
+
+GetOptions(
+    "limit=i" => \$limit,
+) or die "usage?\n";
+
+my $bbox        = shift // die "Usage: $0 <bbox> [output_file]\n";
+my $output_file = shift // '-';
 
 my $ua = HTTP::Tiny->new(
     timeout => 60,
