@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.63948",
+               "52.38232"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2026-06-10 14:17:37 UTC) - Es sind keine Poller, sondern Barrieren, die zumindest f\u00fcr Radfahrer das Queren deutlich erschweren, wenn nicht unm\u00f6glich machen (siehe Mapillary-Fotos).",
+            "urls" : [
+               "https://www.openstreetmap.org/note/2446721"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3264562",
                "52.5325972"
             ],
