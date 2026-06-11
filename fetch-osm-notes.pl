@@ -16,7 +16,7 @@ use HTTP::Tiny;
 use JSON::PP qw(decode_json encode_json);
 
 my $base_url     = 'https://api.openstreetmap.org/api/0.6/notes/search.json';
-my $limit        = 1000;   # per-page fetch limit
+my $limit        = 500;   # per-page fetch limit
 my $max_features = 10_000; # overall cap for merged results (0 = no limit)
 
 GetOptions(
