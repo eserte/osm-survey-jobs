@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.4491003",
+               "52.5245624"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "JDL09Organic (on 2026-06-28 05:53:14 UTC) - Ich habe habe mich nun an den Mapillary-Fotos orientiert und das routing angepasst. (Im Abschnitt Petersburger Stra\u00dfe/Kochhannstra\u00dfe bis Petersburger Stra\u00dfe/Landsberger Allee)",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5191913"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.63948",
                "52.38232"
             ],
