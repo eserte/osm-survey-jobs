@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.2415424",
+               "52.6749049"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "einufo (on 2026-09-01 11:34:44 UTC) - Auf diversen Mapillary-Aufnahmen von 2026 ist das Schild wieder da - leider kann ich es nicht lesen. Der Hydrant ist auch genau dort zu sehen, wo er gemappt ist.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/3894274"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5010309",
                "52.6278225"
             ],
