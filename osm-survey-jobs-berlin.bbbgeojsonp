@@ -294,23 +294,6 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.2765484",
-               "52.5865362"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "eserte (on 2024-10-08 20:03:26 UTC) - Die letzten Bilder bei Mapillary sind von 2019 --- vielleicht hat sich in den letzten Jahren hier etwas getan?",
-            "urls" : [
-               "https://www.openstreetmap.org/note/4385376"
-            ]
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.5662752",
                "52.5412863"
             ],
