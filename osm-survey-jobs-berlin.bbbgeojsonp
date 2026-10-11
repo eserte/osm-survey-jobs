@@ -511,23 +511,6 @@ geoJsonResponse({
             ]
          },
          "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.3520901",
-               "52.5875367"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "mardiz (on 2019-08-17 15:08:31 UTC) - Das ist ja das Merkw\u00fcrdige, es kann sein, dass das eine oder andere Schild entfernt wurde, z.B. \"Radfahrende frei\". Das Mauerweg-Schild an dieser Stelle l\u00e4\u00dft vermuten, dass dieser geradeaus f\u00fchrt. Bei mapillary ist auch ein Bild (von kartonage) mit der von...",
-            "urls" : [
-               "https://www.openstreetmap.org/note/1807061"
-            ]
-         },
-         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
