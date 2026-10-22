@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.366971",
+               "52.4457503"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "p*b (on 2026-10-22 10:34:43 UTC) - Leider auf dem mapillary-Bildern nicht eindeutig erkennbar: Asphalt oder verdichtet?",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5444621"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.2415424",
                "52.6749049"
             ],
