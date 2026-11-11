@@ -5,6 +5,23 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.5707264",
+               "52.5033677"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2026-11-11 12:25:10 UTC) - Einbahnstra\u00dfe hier d\u00fcrfte falsch sein, zumindest sieht man bei Mapillary nichts davon.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5627155"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.3135897",
                "52.5178661"
             ],
