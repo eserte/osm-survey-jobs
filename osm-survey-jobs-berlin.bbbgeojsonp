@@ -5,6 +5,40 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.3614081",
+               "52.4766445"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "eserte (on 2026-11-20 14:55:15 UTC) - Der neue Radweg Richtung S\u00fcdosten ist fertig und freigegeben.",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5641653"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.3084184",
+               "52.6342772"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "Entbert (on 2026-11-19 23:30:25 UTC) - Sowohl hier als auch bei den n\u00f6rdlich folgenden Querstra\u00dfen sind jeweils von Oranienburger Chaussee und Sch\u00f6nflie\u00dfer Stra\u00dfe Einfahrverbote f\u00fcr hgv eingetragen. Auf Mapillary-Aufnahmen, sowohl als als auch nagelneu, kann ich allerdings keinen Hinweis auf ei...",
+            "urls" : [
+               "https://www.openstreetmap.org/note/5640777"
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.5707264",
                "52.5033677"
             ],
